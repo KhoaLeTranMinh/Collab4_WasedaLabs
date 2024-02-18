@@ -1,7 +1,5 @@
-// firebase.js
-import firebase from "firebase/app"
-import "firebase/firestore" // Import only the services you need
-import "firebase/auth"
+import firebase from "firebase/compat/app"
+import "firebase/compat/firestore"
 
 const firebaseConfig = {
 	apiKey: "AIzaSyBn1qOxv9SPPRb3pH6meFPnOHIDrFiXSn8",
@@ -15,13 +13,15 @@ const firebaseConfig = {
 }
 firebase.initializeApp(firebaseConfig)
 
-export const firestore = firebase.firestore()
-export const auth = firebase.auth()
 export const db = firebase.firestore()
-export const storage = firebase.storage()
 
 //Just for testing
-const data = firestore.collection("your_collection").get()
-data.docs.forEach((doc) => {
-	console.log(doc.data())
-})
+db.collection("faculties")
+	.get()
+	.then((querySnapshot) => {
+		querySnapshot.forEach((doc) => {
+			console.log(`${doc.id} => ${doc.data()}`)
+		})
+	})
+
+console.log("lmaoooo")
