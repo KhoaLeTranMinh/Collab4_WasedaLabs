@@ -1,0 +1,304 @@
+{
+    "prof_imgs": [
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/43-fukazawa1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/honiden-2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/29-ishiakawa1-2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/kameyama1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/kasahara01.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/kasai.jpg",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/35-katto2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/kawahara.jpg",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/34-kimura2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/Kobayashi01.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/44-maehara2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/mori.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/41-nakajima2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/nakazato1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/Ogawa.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/34857281a67e109c706928ffdc6acf911.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/shimamoto1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/shimizu.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/Sugawara.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2023/05/tanaka-ishi2-1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/Tanaka.jpg",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/terauchi11.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/40-togawa2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/uchida.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/31-ueda2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/washizaki-face4.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/watanabe.jpg",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/47-yamana2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/yanagisawa_e1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/LIU.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/tel-2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/08.jpg",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/07.jpg"
+    ],
+    "prof_names": [
+        "FUKAZAWA, Yoshiaki",
+        "HONIDEN, Shinichi",
+        "ISHIKAWA, Hiroshi",
+        "KAMEYAMA, Wataru",
+        "KASAHARA, Hironori",
+        "KASAI, Hiroyuki",
+        "KATTO, Jiro",
+        "KAWAHARA, Daisuke",
+        "KIMURA, Keiji",
+        "KOBAYASHI, Tetsunori",
+        "MAEHARA, Fumiaki",
+        "MORI, Tatusya",
+        "NAKAJIMA, Tatsuo",
+        "NAKAZATO, Hidenori",
+        "OGAWA, Tetsuji",
+        "SAKAI, Tetsuya",
+        "SHIMAMOTO, Shigeru",
+        "SHIMIZU, Kana",
+        "SUGAWARA, Toshiharu",
+        "TANAKA-ISHII, Kumiko",
+        "TANAKA, Yoshiaki",
+        "TERAUCHI, Tachio",
+        "TOGAWA, Nozomu",
+        "UCHIDA, Masato",
+        "UEDA, Kazunori",
+        "WASHIZAKI, Hironori",
+        "WATANABE, Hiroshi",
+        "YAMANA, Hayato",
+        "YANAGISAWA, Masao",
+        "Jiang LIU",
+        "TEI, Kenji",
+        "Heming SUN",
+        "KANAI, Kenji"
+    ],
+    "prof_positions": [
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Associate Professor",
+        "Associate Professor",
+        "Junior Researcher",
+        "Junior Researcher"
+    ],
+    "research_areas": [
+        [
+            "Object-oriented software development",
+            " Software reuse",
+            " Software testing",
+            " Graphical user interface development",
+            " Optimization for fine-grained parallel machine",
+            " Computer aided design (CAD)"
+        ],
+        [
+            "Autonomous Agent Engineering"
+        ],
+        [
+            "Computer vision",
+            " Artificial Intelligence",
+            " Optimization"
+        ],
+        [
+            "Multimedia Information Distribution Systems",
+            " Multimedia Data Processing/Recognition/Classification"
+        ],
+        [
+            "High Perfomance Computing",
+            " Parallelizing Compiler",
+            "Green Multicore",
+            " Power Reduction",
+            " Medical Image Processing",
+            "Self Driving Automobile",
+            " Smart City",
+            " Embedded Computing",
+            " \r"
+        ],
+        [
+            "Theory and application of optimization",
+            " machine learning and signal processing"
+        ],
+        [
+            "Future Networking and Multimedia Signal Processing"
+        ],
+        [
+            "Natural Language Processing",
+            " Web Information Processing",
+            " Artificial Intelligence"
+        ],
+        [
+            "Processor architecture",
+            " Parallelizing compiler"
+        ],
+        [
+            "Perceptual Computing",
+            " Spoken Language Processing",
+            " Image Processing",
+            " Intelligent Robot"
+        ],
+        [
+            "Wireless Communications"
+        ],
+        [
+            "Information security and privacy"
+        ],
+        [
+            "Interaction Design (AR",
+            " VR",
+            " NUI) Gameful Services and Social Media",
+            " Distributed Operating System"
+        ],
+        [
+            "In-Network Processing",
+            " Future Internet"
+        ],
+        [
+            "Research Areas: Acoustic and Speech Processing",
+            " Pattern Recognition"
+        ],
+        [
+            "Information access",
+            " Natural language processing",
+            " Interaction"
+        ],
+        [
+            "Wireless Access",
+            " Air and Space Communication",
+            " Body Area Network"
+        ],
+        [
+            "computational biology"
+        ],
+        [
+            "Multi-agent systems",
+            " Artificial intelligence",
+            " Machine learning for cooperation and coordination",
+            " Multi-agent simulation"
+        ],
+        [
+            "Computational linguistics",
+            " Natural language processing",
+            " Finance engineering using language data"
+        ],
+        [
+            "Telecommunication Network",
+            " Telecommunication Service"
+        ],
+        [
+            "Programming Languages",
+            " Mathematical Logic",
+            " Formal Verification",
+            " Formal Language Theory",
+            " Security",
+            " Program Verification",
+            " Program Synthesis",
+            " Automated Deduction",
+            " Type Systems"
+        ],
+        [
+            "Next-Generation System LSI and Its Application to Image/Network Processing"
+        ],
+        [
+            "Information Networking",
+            " Machine Learning",
+            " Performance Evaluation"
+        ],
+        [
+            "Programming Languages",
+            " Advanced Computational Models",
+            " Knowledge Information Processing",
+            " Computer-Aided Verification",
+            " Hybrid Systems"
+        ],
+        [
+            "Software Engineering",
+            " Reliable Software Systems",
+            " Software Development Environments"
+        ],
+        [
+            "Video and Image Recognition",
+            " Video Coding"
+        ],
+        [
+            "Parallel and Distributed Computing",
+            " Big Data Analysis",
+            " Secure Computation"
+        ],
+        [
+            "Bioinformatics",
+            " Sensor signal processing"
+        ],
+        [
+            "Wireless Network Systems",
+            " Optical Wireless Communications"
+        ],
+        [
+            "Self-adaptive software",
+            " Reactive systems",
+            " Event-triggered control"
+        ],
+        [
+            "Image Processing",
+            " Artificial Intelligence"
+        ],
+        [
+            "IoTFuture Network System"
+        ]
+    ],
+    "websites": [
+        "http://www.honiden.jp/en/",
+        "http://hi.cs.waseda.ac.jp/index.php/en/",
+        "http://www.km.comm.waseda.ac.jp/index_en.html",
+        "http://www.kasahara.cs.waseda.ac.jp/index.html.en",
+        "http://kasai.comm.waseda.ac.jp/",
+        "https://www.katto.comm.waseda.ac.jp/",
+        "http://nlp-waseda.jp/en/",
+        "http://www.apal.cs.waseda.ac.jp/index.html.en",
+        "http://www.pcl.cs.waseda.ac.jp/",
+        "http://www.waseda.jp/sem-maehara/",
+        "https://nsl.cs.waseda.ac.jp/",
+        "http://www.dcl.cs.waseda.ac.jp/",
+        "http://www.nz.comm.waseda.ac.jp/",
+        "http://www.pcl.cs.waseda.ac.jp/",
+        "http://www.f.waseda.jp/tetsuya/",
+        "http://www.shimamotolab.sci.waseda.ac.jp/en/",
+        "https://www.cbio.cs.waseda.ac.jp/",
+        "https://www.sugawara.org/",
+        "https://www.l.sci.waseda.ac.jp/",
+        "http://www.tanaka.giti.waseda.ac.jp/eng/index.html",
+        "http://www.f.waseda.jp/terauchi/index.html",
+        "http://www.togawa.cs.waseda.ac.jp/English/",
+        "https://uchida-lab.jp/en_index",
+        "https://www.ueda.info.waseda.ac.jp/index.html",
+        "http://www.washi.cs.waseda.ac.jp/",
+        "https://www.ams.giti.waseda.ac.jp/",
+        "https://www.yama.info.waseda.ac.jp/en/yamana-lab-information",
+        "http://www.islab.cs.waseda.ac.jp/wp/",
+        "http://www.shimamotolab.sci.waseda.ac.jp/en/",
+        "http://www.honiden.jp/en/",
+        "https://researchmap.jp/heming/?lang=en",
+        "https://researchmap.jp/7000007452/?lang=en"
+    ]
+}

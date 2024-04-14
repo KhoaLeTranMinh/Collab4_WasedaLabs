@@ -1,0 +1,260 @@
+{
+    "prof_imgs": [
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/02.jpg",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2023/05/4985dfac153e444a0ff097e5ae48831e.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/05-martin1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/10-homma2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/01_ikeda-1.jpg",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/16-itou1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/04-kaji1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/18-kashiwagi2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/06-kozono1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2022/06/kumagaya-1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/kuto.jpg",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/maruno1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/27-matsushima2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/miezaki.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/11-murakami2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/14-nagai2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/narita.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2023/05/b22833338c06ba7ebe4d723cd242d806-2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2023/05/omoto2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2023/05/ohnita2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/17-oishi2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/03-ozaki1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/shimizu1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/22-takahashi2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/09-tanaka1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/25-toyoizumi2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/usuba.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/12-yamazaki2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/13-yoneda2.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/HAYAMIZU.jpg",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/LIU-1.png",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/05.jpg",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/01.jpg",
+        "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2023/05/kubota3.png"
+    ],
+    "prof_names": [
+        "BOWEN, Mark",
+        "FUKUIZUMI, Reika",
+        "GUEST, Martin",
+        "HOMMA, Yasushi",
+        "IKEDA, Takeshi",
+        "ITO, Kimihisa",
+        "KAJI, Hajime",
+        "KASHIWAGI, Masahide",
+        "KOZONO, Hideo",
+        "KUMAGAI, Takashi",
+        "KUTO, Kousuke",
+        "MARUNO, Kenichi",
+        "MATSUSHIMA, Toshiyasu",
+        "MIEZAKI, Tsuyoshi",
+        "MURAKAMI, Jun",
+        "NAGAI, Yasunari",
+        "NARITA, Hiro-aki",
+        "OGITA, Takeshi",
+        "OHMOTO, Toru",
+        "OHNITA, Yoshihiro",
+        "OISHI, Shinichi",
+        "OZAKI, Manabu",
+        "SHIMIZU, Yasutaka",
+        "TAKAHASHI, Daisuke",
+        "TANAKA, Kazunaga",
+        "TOYOIZUMI, Hiroshi",
+        "USUBA, Toshimichi",
+        "YAMAZAKI, Masao",
+        "YONEDA, Gen",
+        "HAYAMIZU, Momoko",
+        "LIU, Yan",
+        "TANAKA, Kazuaki",
+        "TRINH, Khanh Duy",
+        "KUBOTA, Ayako"
+    ],
+    "prof_positions": [
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Professor",
+        "Associate Professor",
+        "Associate Professor",
+        "Associate Professor",
+        "Associate Professor",
+        "Assistant Professor"
+    ],
+    "research_areas": [
+        [
+            "Applied Mathematics",
+            " Nonlinear differential equations and systems"
+        ],
+        [
+            "SPDE",
+            " nonlinear dispersive equations"
+        ],
+        [
+            "Advanced Geometry"
+        ],
+        [
+            "Geometry and analysis related to Dirac operators."
+        ],
+        [
+            "Geometry",
+            " Representation theory",
+            " Combinatorics"
+        ],
+        [
+            "Non-equilibrium Thermodynamics",
+            " High Tempereture Physucal Chemistry"
+        ],
+        [
+            "Algebraic Geometry"
+        ],
+        [
+            "Numerical Analysis"
+        ],
+        [
+            "Theory of partial differential Navier Stokes equation describing the motion of fluids",
+            " and related partial differential equations"
+        ],
+        [
+            "Probability Theory"
+        ],
+        [
+            "Nonlinear Partial Differential Equations"
+        ],
+        [
+            "Mathematical Physics",
+            " Integrable Systems",
+            " Nonlinear Waves"
+        ],
+        [
+            "Information Theory"
+        ],
+        [
+            "Algebraic Combinatorics",
+            " Algebraic Coding theory",
+            "Discrete Mathematics"
+        ],
+        [
+            "Study of knots and 3-manifolds by using quantum invariants and related representation theory"
+        ],
+        [
+            "Algebraic Geometry"
+        ],
+        [
+            "Number theory"
+        ],
+        [
+            "Numerical Analysis"
+        ],
+        [
+            "Singularity Theory",
+            " Topology",
+            " Applied Geometry"
+        ],
+        [
+            "Differential Geometry",
+            " Harmonic Map Theory"
+        ],
+        [
+            "Verified Numerical Analysis and Its Application"
+        ],
+        [
+            "Algebra"
+        ],
+        [
+            "Statistical inference",
+            " stochastic processes",
+            " insurance and financial mathematics"
+        ],
+        [
+            "Discrete nonlinear systems",
+            " especially discrete integrable systems using ultradiscretization method"
+        ],
+        [
+            "Variational problems. Nonlinear differential equations"
+        ],
+        [
+            "Social system engineering/safety system"
+        ],
+        [
+            "Axiomatic Set Theory"
+        ],
+        [
+            "Partial Differential Equations and Real Analysis"
+        ],
+        [
+            "Theory of relativity"
+        ],
+        [
+            "Discrete mathematics and its application to biology"
+        ],
+        [
+            "Mathematical Statistics",
+            "Time Series Analysis",
+            "Statistical Learning Theory"
+        ],
+        [
+            "Rigorous Numerical Computation"
+        ],
+        [
+            "probability theory",
+            " applied probability theory"
+        ],
+        [
+            "Algebraic Geometry"
+        ]
+    ],
+    "websites": [
+        "http://bowen.w.waseda.jp/",
+        "https://fukuizumi.kinsta.cloud/",
+        "https://yhomma.w.waseda.jp/",
+        "https://sites.google.com/view/takeshi-ikeda/",
+        "http://www.f.waseda.jp/kaji/",
+        "http://www.kashi.info.waseda.ac.jp/",
+        "https://t-kumagai.w.waseda.jp",
+        "http://www.f.waseda.jp/kuto/",
+        "http://www.f.waseda.jp/kmaruno/",
+        "http://www.matsu.mgmt.waseda.ac.jp/?la=en",
+        "https://sites.google.com/site/tmiezaki/",
+        "http://www.f.waseda.jp/murakami/index.html",
+        "http://www.f.waseda.jp/nagai.y/",
+        "https://hnarita.w.waseda.jp/english.htm",
+        "https://ogilab.w.waseda.jp/",
+        "https://sites.google.com/view/applied-singularity-theory",
+        "http://www.oishi.info.waseda.ac.jp/index-e.html",
+        "https://www.shimizu.sci.waseda.ac.jp/ys/",
+        "http://hakotama.jp/laboratory/index.html.en",
+        "https://toyoizumi.w.waseda.jp/",
+        "https://yoneda.w.waseda.jp/",
+        "https://www.youtube.com/channel/UCZFe7-vmShA0oRQ55FomoUg",
+        "https://liu.w.waseda.jp/English/",
+        "https://sites.google.com/site/kazuakitanaka0203e/home",
+        "https://sites.google.com/site/kdtrinhprob/Home"
+    ]
+}
