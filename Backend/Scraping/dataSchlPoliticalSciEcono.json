@@ -1,0 +1,47 @@
+{
+    "Year": {
+        "0": 2024,
+        "1": 2024,
+        "2": 2024
+    },
+    "Course Code": {
+        "0": "POLX301L",
+        "1": "INFN102L",
+        "2": "INFP10ZL"
+    },
+    "Course Title": {
+        "0": "Applied game theory in political analysis [J/E] 01",
+        "1": "Introduction to Java Programming [J/E] 01",
+        "2": "Introduction to Fortran Programming [J/E] 01"
+    },
+    "Instructor": {
+        "0": "KURIZAKI, Shuhei",
+        "1": "SAITO, Shuhei",
+        "2": "ITO, Kunihiro"
+    },
+    "School": {
+        "0": "Schl Political Sci/Econo",
+        "1": "Schl Political Sci/Econo",
+        "2": "Schl Political Sci/Econo"
+    },
+    "Term": {
+        "0": "spring semester",
+        "1": "spring semester",
+        "2": "spring semester"
+    },
+    "Day, Period": {
+        "0": "Mon.5",
+        "1": "Wed.6",
+        "2": "othersOn demand"
+    },
+    "Classroom": {
+        "0": "3-808",
+        "1": "63-3F-C",
+        "2": "undecided"
+    },
+    "Course Description": {
+        "0": "This course is \"Applied Game Theory for Political Scientists\" in which the......",
+        "1": "\u672c\u8b1b\u7fa9\u306f\uff0c\u300c\u7c21\u5358\u306a\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u8aad\u3080\u30fb\u66f8\u304f\u80fd\u529b\u3092\u8eab\u306b\u3064\u3051\u308b\u300d\u3053\u3068\u306b\u91cd\u70b9\u3092\u7f6e\u304d......",
+        "2": "\u300c\u7c21\u5358\u306a\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u8aad\u3080\u30fb\u66f8\u304f\u80fd\u529b\u3092\u8eab\u306b\u3064\u3051\u308b\u300d\u3053\u3068\u306b\u91cd\u70b9\u3092\u7f6e\u304d\u3001\u5c02\u9580\u5206\u91ce......"
+    }
+}
