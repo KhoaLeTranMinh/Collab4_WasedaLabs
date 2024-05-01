@@ -50,7 +50,7 @@ def main_data_scrape(x):
     # x = x.replace(" ","").replace("/","")
     # df_final.to_csv('/Users/mik/Data Scraping/results/'+x+"_mainv2.csv")
 
-    result = df.to_json(orient="columns")
+    result = df_final.to_json(orient="columns")
     parsed = loads(result)
     json_object = dumps(parsed,indent=4)
     x = x.replace(" ","").replace("/","")
