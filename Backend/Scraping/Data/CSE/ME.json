@@ -1,0 +1,281 @@
+{
+    "0": {
+        "labWebsite": "http://www.arigalab.arch.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/42.jpg",
+        "profName": "ARIGA, Takashi",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Urban and Environmental Design "
+        ]
+    },
+    "1": {
+        "labWebsite": "http://www.it.mgmt.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/75.jpg",
+        "profName": "GOTO, Masayuki ",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Research on Applied Information Science "
+        ]
+    },
+    "2": {
+        "labWebsite": "http://www.mdm.mgmt.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/98.jpg",
+        "profName": "HASUIKE, Takashi ",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Research on Mathematical Decision Making"
+        ]
+    },
+    "3": {
+        "labWebsite": "http://www.hishiyamalab.com/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/49.jpg",
+        "profName": "HISHIYAMA, Reiko ",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Research on Intelligent Information System"
+        ]
+    },
+    "4": {
+        "labWebsite": "http://www.ishii.mmech.waseda.ac.jp/",
+        "profImg": "http://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/163.jpg",
+        "profName": "ISHII, Hiroyuki",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Biorobotics "
+        ]
+    },
+    "5": {
+        "labWebsite": "http://www.ishimura.mmech.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/139.jpg",
+        "profName": "ISHIMURA, Kosei",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Design of Structures and Mechanisms"
+        ]
+    },
+    "6": {
+        "labWebsite": "http://www.iwasaki.mmech.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/uploads/2018/03/85.png",
+        "profName": "IWASAKI, Kiyotaka",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Biomechanical and Biomedical Engineering"
+        ]
+    },
+    "7": {
+        "labWebsite": "http://www.jubi-party.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/102.jpg",
+        "profName": "IWATA, Hiroyasu",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Human Assistive and Augmentation Robotics / Medical Robotics"
+        ]
+    },
+    "8": {
+        "labWebsite": "http://www.kishi.mgmt.waseda.ac.jp/index.html",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/67.jpg",
+        "profName": "KISHI, Tomoji ",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Research on Software Engineering"
+        ]
+    },
+    "9": {
+        "labWebsite": "none",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/156.jpg",
+        "profName": "KATO, Yoichi ",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Information and Communication Systems"
+        ]
+    },
+    "10": {
+        "labWebsite": "http://www.f.waseda.jp/komatsubara.ak/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/83.jpg",
+        "profName": "KOMATSUBARA, Akinori ",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Research on Human Life Engineering"
+        ]
+    },
+    "11": {
+        "labWebsite": "http://www.f.waseda.jp/jin.kusaka/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/166.jpg",
+        "profName": "KUSAKA, Jin",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Thermal Energy Conversion "
+        ]
+    },
+    "12": {
+        "labWebsite": "none",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/145.jpg",
+        "profName": "LIN, Jia-Yeu ",
+        "profPosition": "Assistant Professor",
+        "researchAreas": [
+            "Robotics, Intelligent Mechanical Engineering"
+        ]
+    },
+    "13": {
+        "labWebsite": "none",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/146.jpg",
+        "profName": "MATSUBARA, Masami ",
+        "profPosition": "Associate Professor",
+        "researchAreas": [
+            "Research on functional structure design"
+        ]
+    },
+    "14": {
+        "labWebsite": "none",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/140.jpg",
+        "profName": "MATSUDA, Yu ",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Thermo-Fluid Engineering, Visualization techniques for thermo-fluid phenomena\t"
+        ]
+    },
+    "15": {
+        "labWebsite": "http://www.miyashita.mmech.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/72.jpg",
+        "profName": "MIYASHITA, Tomoyuki",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Design Methodology of Mechanical System"
+        ]
+    },
+    "16": {
+        "labWebsite": "http://www.tqm.mgmt.waseda.ac.jp/index-j.html",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/85.jpg",
+        "profName": "MUNECHIKA, Masahiko ",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Research on Quality Management"
+        ]
+    },
+    "17": {
+        "labWebsite": "http://www.f.waseda.jp/takao.nakagaki/index.html",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/18.jpg",
+        "profName": "NAKAGAKI, Takao",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Research on Exergy Engineering "
+        ]
+    },
+    "18": {
+        "labWebsite": "none",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/128.jpg",
+        "profName": "OHMORI, Shunichi",
+        "profPosition": "Associate Professor",
+        "researchAreas": [
+            "Research on Logistics Engineering"
+        ]
+    },
+    "19": {
+        "labWebsite": "none",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/103.jpg",
+        "profName": "OHYA, Jun",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Image Engineering "
+        ]
+    },
+    "20": {
+        "labWebsite": "http://www.sugano.mech.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/68.jpg",
+        "profName": "SUGANO, Shigeki",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Intelligent Machine"
+        ]
+    },
+    "21": {
+        "labWebsite": "http://takaguchi.arch.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/21.jpg",
+        "profName": "TAKAGUCHI, Hiroto",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Environment Media"
+        ]
+    },
+    "22": {
+        "labWebsite": "http://www.sys.mgmt.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/57.jpg",
+        "profName": "TAKAHASHI, Shingo ",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Research on Systems Science and Engineering"
+        ]
+    },
+    "23": {
+        "labWebsite": "http://www.takanishi.mech.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/69.jpg",
+        "profName": "TAKANISHI, Atsuo",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Robotics and Mechatronics "
+        ]
+    },
+    "24": {
+        "labWebsite": "http://www.jp.tafsm.org/en/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/105.jpg",
+        "profName": "TAKIZAWA, Kenji",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Computational Fluid-Structure Interaction "
+        ]
+    },
+    "25": {
+        "labWebsite": "http://www.tanabe.arch.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/22.jpg",
+        "profName": "TANABE, Shin-ichi",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Architectural Environments"
+        ]
+    },
+    "26": {
+        "labWebsite": "http://www.wesugi.mech.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/162.jpg",
+        "profName": "UESUGI, Shigeru",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Co-creative Interface Design"
+        ]
+    },
+    "27": {
+        "labWebsite": "http://www.umeshin.mmech.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/104.jpg",
+        "profName": "UMEZU, Shinjiro",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Micro / Nano Engineering "
+        ]
+    },
+    "28": {
+        "labWebsite": "none",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/157.jpg",
+        "profName": "YOSHIDA, Atsumasa ",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Environmental Thermal Engineering"
+        ]
+    },
+    "29": {
+        "labWebsite": "http://www.yoshida.mech.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/73.jpg",
+        "profName": "YOSHIDA, Makoto",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Transporters & Energy Plants Materials Science and Engineering"
+        ]
+    },
+    "30": {
+        "labWebsite": "https://www.yoshimuralab.me/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/125.jpg",
+        "profName": "YOSHIMURA, Yasutaka",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Research on Urban-tech"
+        ]
+    }
+}

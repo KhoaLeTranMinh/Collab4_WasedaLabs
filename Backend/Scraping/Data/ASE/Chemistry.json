@@ -1,0 +1,299 @@
+{
+    "0": {
+        "labWebsite": "http://www.chem.waseda.ac.jp/furukawa/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_furukawa01.jpg",
+        "profName": "Yukio Furukawa",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Structural Chemistry"
+        ]
+    },
+    "1": {
+        "labWebsite": "https://waseda.pure.elsevier.com/en/persons/regis-guegan",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_guegan01.jpg",
+        "profName": "R\u00e9gis Guegan",
+        "profPosition": "Associate Professor",
+        "researchAreas": [
+            "Physical Chemistry"
+        ]
+    },
+    "2": {
+        "labWebsite": "http://www.f.waseda.jp/noda/members.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_hanada01.jpg",
+        "profName": "Nobuko Hanada",
+        "profPosition": "Assistant Professor",
+        "researchAreas": [
+            "Materials Science, Chemical Engineering"
+        ]
+    },
+    "3": {
+        "labWebsite": "https://waseda.pure.elsevier.com/en/persons/izumi-hirasawa",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_hirasawa01.jpg",
+        "profName": "Izumi Hirasawa",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Chemical Engineering, Separation Process Engineering, Environmental Engineering"
+        ]
+    },
+    "4": {
+        "labWebsite": "http://www.sc.appchem.waseda.ac.jp/en/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_homma01.jpg",
+        "profName": "Takayuki Homma",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Functional Surface Chemistry, Interface Electrochemistry"
+        ]
+    },
+    "5": {
+        "labWebsite": "https://waseda.pure.elsevier.com/en/persons/seijiro-hosokawa",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_hosokawa01.jpg",
+        "profName": "Seijiro Hosokawa",
+        "profPosition": "Associate Professor",
+        "researchAreas": [
+            "Synthetic Organic Chemistry"
+        ]
+    },
+    "6": {
+        "labWebsite": "http://www.chem.waseda.ac.jp/imura/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_imura01.jpg",
+        "profName": "Kohei Imura",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Photo-Physical Chemistry"
+        ]
+    },
+    "7": {
+        "labWebsite": "http://www.chem.waseda.ac.jp/ishihara/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_ishihara01.jpg",
+        "profName": "Koji Ishihara",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Inorganic Reaction Chemistry"
+        ]
+    },
+    "8": {
+        "labWebsite": "http://www.chem.waseda.ac.jp/kanomata",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_kanomata01.jpg",
+        "profName": "Nobuhiro Kanomata",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Functional Organic Chemistry, Organic Stereochemistry, Heterocyclic Chemistry"
+        ]
+    },
+    "9": {
+        "labWebsite": "https://waseda.pure.elsevier.com/en/persons/stephen-kyalo-kanyiva",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_kanyiva01.jpg",
+        "profName": "Kyalo Stephen Kanyiva",
+        "profPosition": "Associate Professor",
+        "researchAreas": [
+            "Reaction Organic Chemistry"
+        ]
+    },
+    "10": {
+        "labWebsite": "https://waseda.pure.elsevier.com/en/persons/kuniki-kino",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_kino01.jpg",
+        "profName": "Kuniki Kino",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Fermentation Engineering, Microbial Metabolic Engineering, Applied Biochemistry"
+        ]
+    },
+    "11": {
+        "labWebsite": "https://waseda.pure.elsevier.com/en/persons/kotaro-kirimura",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_kirimura01.jpg",
+        "profName": "Kohtaro Kirimura",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Applied Biochemistry, Microbial Functions Development"
+        ]
+    },
+    "12": {
+        "labWebsite": "https://waseda.pure.elsevier.com/en/persons/fukashi-kohori",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_kohori01.jpg",
+        "profName": "Fukashi Kohori",
+        "profPosition": "Assistant Professor",
+        "researchAreas": [
+            "Chemical Engineering, Interface Engineering"
+        ]
+    },
+    "13": {
+        "labWebsite": "http://www.chem.waseda.ac.jp/koide/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_koide01.jpg",
+        "profName": "Takaki Koide",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Biomolecular Chemistry"
+        ]
+    },
+    "14": {
+        "labWebsite": "https://www.waseda.jp/sem-kuroda_lab/index-en.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_kuroda01.jpg",
+        "profName": "Kazuyuki Kuroda",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Inorganic Solid State Chemistry, Synthetic Inorganic Chemistry"
+        ]
+    },
+    "15": {
+        "labWebsite": "http://www.matsukata-lab.jp",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_matsukata01.jpg",
+        "profName": "Masahiko Matsukata",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Catalytic Chemistry, Membrane Separation"
+        ]
+    },
+    "16": {
+        "labWebsite": "https://waseda.pure.elsevier.com/en/persons/toshiyuki-momma",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_momma01.jpg",
+        "profName": "Toshiyuki Momma",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Applied Electrochemistry, Chemistry of Energy Materials"
+        ]
+    },
+    "17": {
+        "labWebsite": "http://www.chem.waseda.ac.jp/nakada/e-index.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_nakada01.jpg",
+        "profName": "Masahisa Nakada",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Synthetic Organic Chemistry, Total Synthesis of Bioactive Compounds, Asymmetric Catalysis"
+        ]
+    },
+    "18": {
+        "labWebsite": "http://www.chem.waseda.ac.jp/nakai/?page_id=147&lang=en",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_nakai01.jpg",
+        "profName": "Hiromi Nakai",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Electronic State Theory"
+        ]
+    },
+    "19": {
+        "labWebsite": "http://www.chem.waseda.ac.jp/nakao/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_nakao01.jpg",
+        "profName": "Yoichi Nakao",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Chemical Biology"
+        ]
+    },
+    "20": {
+        "labWebsite": "http://www.f.waseda.jp/noda/members.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_noda01.jpg",
+        "profName": "Suguru Noda",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Reaction Engineering, Materials Process Engineering"
+        ]
+    },
+    "21": {
+        "labWebsite": "http://www.appchem.waseda.ac.jp/~polymer/en/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_oyaizu01.jpg",
+        "profName": "Kenichi Oyaizu",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Polymer Chemistry"
+        ]
+    },
+    "22": {
+        "labWebsite": "http://www.f.waseda.jp/ysekine/index_e.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_sekine01.jpg",
+        "profName": "Yasushi Sekine",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Catalysis, Surface Ionics"
+        ]
+    },
+    "23": {
+        "labWebsite": "http://www.chem.waseda.ac.jp/shibata/eindex.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_shibata01.jpg",
+        "profName": "Takanori Shibata",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Reaction Organic Chemistry"
+        ]
+    },
+    "24": {
+        "labWebsite": "https://www.waseda.jp/sem-kuroda_lab/index-en.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_shimojima01.jpg",
+        "profName": "Atsushi Shimojima",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Synthetic Inorganic Chemistry"
+        ]
+    },
+    "25": {
+        "labWebsite": "http://www.appchem.waseda.ac.jp/~polymer/en/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_suga01.jpg",
+        "profName": "Takeo Suga",
+        "profPosition": "Assistant Professor",
+        "researchAreas": [
+            "Polymer Chemistry, Functional Polymers"
+        ]
+    },
+    "26": {
+        "labWebsite": "http://waseda-sugahara-lab.jp",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_sugahara01.jpg",
+        "profName": "Yoshiyuki Sugahara",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Inorganic Materials Chemistry"
+        ]
+    },
+    "27": {
+        "labWebsite": "https://waseda.pure.elsevier.com/en/persons/heng-yi-teah",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_teah01.jpg",
+        "profName": "Heng Yi Teah",
+        "profPosition": "Assistant Professor",
+        "researchAreas": [
+            "Life Cycle Assessment, Sustainability Assessment, Environmental Chemistry"
+        ]
+    },
+    "28": {
+        "labWebsite": "http://www.chem.waseda.ac.jp/terada/column.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_terada01.jpg",
+        "profName": "Yasuhiko Terada",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Molecular Biology, Cellular Biology"
+        ]
+    },
+    "29": {
+        "labWebsite": "https://www.waseda.jp/sem-kuroda_lab/index-en.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_wada01.jpg",
+        "profName": "Hiroaki Wada",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Inorganic Solid State Chemistry, Inorganic Synthetic Chemistry"
+        ]
+    },
+    "30": {
+        "labWebsite": "http://www.jyamaguchi-lab.com/en/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_yamaguchi01.jpg",
+        "profName": "Junichiro Yamaguchi",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Organic Chemistry"
+        ]
+    },
+    "31": {
+        "labWebsite": "http://www.chem.waseda.ac.jp/yamaguchi/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_yamaguchi02.jpg",
+        "profName": "Tadashi Yamaguchi",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Coordination Chemistry"
+        ]
+    },
+    "32": {
+        "labWebsite": "http://www.chem.waseda.ac.jp/yamamoto/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/chemistry/img_yamamoto01.jpg",
+        "profName": "Kana Yamamoto",
+        "profPosition": "Associate Professor",
+        "researchAreas": [
+            "Synthetic Organic Chemistry"
+        ]
+    }
+}

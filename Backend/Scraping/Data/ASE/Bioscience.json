@@ -1,0 +1,209 @@
+{
+    "0": {
+        "labWebsite": "http://asahi-lab.jp/English.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_asahi01.jpg",
+        "profName": "Toru Asahi",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Bio Solid State Physics"
+        ]
+    },
+    "1": {
+        "labWebsite": "http://hirokobannairesearch.mystrikingly.com",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_bannai01.jpg",
+        "profName": "Hiroko Bannai",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Biophysics, Neuroscience"
+        ]
+    },
+    "2": {
+        "labWebsite": "http://www.waseda.jp/sem-godalab/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_goda01.jpg",
+        "profName": "Nobuhito Goda",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Medical Biochemistry and Molecular Biology of diseases"
+        ]
+    },
+    "3": {
+        "labWebsite": "https://www-en.hamadalab.com",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_hamada01.jpg",
+        "profName": "Michiaki Hamada",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Bioinformatics, Computational Biology"
+        ]
+    },
+    "4": {
+        "labWebsite": "https://inouelab-waseda.github.io",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_inoue01.jpg",
+        "profName": "Masato Inoue",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Probabilistic Information Processing"
+        ]
+    },
+    "5": {
+        "labWebsite": "http://inouelab.biomed.sci.waseda.ac.jp/inouelab-web/index-e.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_inoue02.jpg",
+        "profName": "Takafumi Inoue",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Neurophysiology"
+        ]
+    },
+    "6": {
+        "labWebsite": "http://www.waseda.jp/sem-iwasakilab/index.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_iwasaki01.jpg",
+        "profName": "Hideo Iwasaki",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Biological Aesthetics/Art, Molecular Microbiology"
+        ]
+    },
+    "7": {
+        "labWebsite": "http://www.f.waseda.jp/kiga/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_kiga01.jpg",
+        "profName": "Daisuke Kiga",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Synthetic Biology, Biochemistry"
+        ]
+    },
+    "8": {
+        "labWebsite": "https://waseda.pure.elsevier.com/en/persons/tianshu-li",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_li01.jpg",
+        "profName": "Tianshu Li",
+        "profPosition": "Assistant Professor",
+        "researchAreas": [
+            "Biomaterials, Nanomedicine, Cell Biology"
+        ]
+    },
+    "9": {
+        "labWebsite": "http://www.ohshima.biomed.sci.waseda.ac.jp/major_in_bioscience/m_nozaki.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_nozaki01.jpg",
+        "profName": "Chihiro Nozaki",
+        "profPosition": "Associate Professor",
+        "researchAreas": [
+            "Pain, Neuroimmunology, Neuropharmacology"
+        ]
+    },
+    "10": {
+        "labWebsite": "http://www.ohshima.biomed.sci.waseda.ac.jp/indexe.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_ohshima01.jpg",
+        "profName": "Toshio Ohshima",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Molecular Neuroscience"
+        ]
+    },
+    "11": {
+        "labWebsite": "http://www.eb.waseda.ac.jp/okano/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_okano01.jpg",
+        "profName": "Toshiyuki Okano",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Photobiology, Biochemistry"
+        ]
+    },
+    "12": {
+        "labWebsite": "http://www.sato.biomed.sci.waseda.ac.jp",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_sato01.jpg",
+        "profName": "Masamitsu Sato",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Molecular Cell Biology, Cytoskeletal Regulation"
+        ]
+    },
+    "13": {
+        "labWebsite": "http://www.eb.waseda.ac.jp/shibata/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_shibata01.jpg",
+        "profName": "Shigenobu Shibata",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Pharmacology, Nutrients Science"
+        ]
+    },
+    "14": {
+        "labWebsite": "https://waseda.pure.elsevier.com/en/persons/kentaro-semba",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_semba01.jpg",
+        "profName": "Kentaro Semba",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Molecular Oncology"
+        ]
+    },
+    "15": {
+        "labWebsite": "https://www.yutahara.com",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_tahara01.jpg",
+        "profName": "Yu Tahara",
+        "profPosition": "Associate Professor",
+        "researchAreas": [
+            "Chronobiology, Physiology, Pharmacology"
+        ]
+    },
+    "16": {
+        "labWebsite": "http://www.waseda.jp/sem-takeda/index.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_takeda01.jpg",
+        "profName": "Naoya Takeda",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Biomaterials, Soft Interface, Tissue Engineering"
+        ]
+    },
+    "17": {
+        "labWebsite": "http://www.takeoka.biomed.sci.waseda.ac.jp/en/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_takeoka01.jpg",
+        "profName": "Shinji Takeoka",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Science of Biomolecular Assembly, Engineering of Nanomedicine"
+        ]
+    },
+    "18": {
+        "labWebsite": "http://www.f.waseda.jp/haruko-takeyama/English/HomeEnglish.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_takeyama01.jpg",
+        "profName": "Haruko Takeyama",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Biomolecular Engineering and Biotechnology"
+        ]
+    },
+    "19": {
+        "labWebsite": "http://www.ohshima.biomed.sci.waseda.ac.jp/major_in_bioscience/m_toya.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_toya01.jpg",
+        "profName": "Mika Toya",
+        "profPosition": "Associate Professor",
+        "researchAreas": [
+            "Cytoskeletal Organization, Cell Biology, Tissue Architecture"
+        ]
+    },
+    "20": {
+        "labWebsite": "http://www.waseda.jp/sem-tsuneda/english/index.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_tsuneda01.jpg",
+        "profName": "Satoshi Tsuneda",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Environmental Biotechnology"
+        ]
+    },
+    "21": {
+        "labWebsite": "http://www.qp.phys.waseda.ac.jp/index_en.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_uyeda01.jpg",
+        "profName": "Taro Uyeda",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Molecular Biophysics"
+        ]
+    },
+    "22": {
+        "labWebsite": "http://www.eb.waseda.ac.jp/yanagitani/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/bioscience/img_yanagitani01.jpg",
+        "profName": "Takahiko Yanagitani",
+        "profPosition": "Associate Professor",
+        "researchAreas": [
+            "Biosensors, Ultrasonics"
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"component": {
+		"scope": "javascript,typescript",
+		"prefix": "nextpage",
+		"body": ["export default function Page({ }) {", "  return (", "    <main>", "    </main>", "  )", "}"],
+		"description": "React component"
+	}
+}
