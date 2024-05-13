@@ -37,46 +37,49 @@ const Page = () => {
 			<p className='text-center'>
 				After new registration and login , you will be able to use the convenient functions.
 			</p>
-			<Input
-				required
-				type='email'
-				name='email'
-				placeholder='Enter your email...'
-				value={email}
-				errors={errors}
-				onChange={handleChange}
-			/>
-			<Input
-				required
-				type='password'
-				name='password'
-				placeholder='Enter your password...'
-				value={password}
-				errors={errors}
-				onChange={handleChange}
-			/>
-			<Input
-				required
-				type='text'
-				name='password'
-				placeholder='Firstname...'
-				value={firstName}
-				errors={errors}
-				onChange={handleChange}
-			/>
-			<Input
-				required
-				type='text'
-				name='major'
-				placeholder='Lastname...'
-				value={lastName}
-				errors={errors}
-				onChange={handleChange}
-			/>
-
-			<SelectPanel schools={Object.values(Schools)} name='major' text='Select your school' />
-			<SelectPanel majors={Object.values(Majors)} name='school' text='Select your major' />
-			<SimpleButton text='Register' />
+			<form action='' className='w-full'>
+				<Input
+					required
+					type='email'
+					name='email'
+					placeholder='Enter your email...'
+					value={email}
+					errors={errors}
+					onChange={handleChange}
+				/>
+				<Input
+					required
+					type='password'
+					name='password'
+					placeholder='Enter your password...'
+					value={password}
+					errors={errors}
+					onChange={handleChange}
+				/>
+				<Input
+					required
+					type='text'
+					name='password'
+					placeholder='Firstname...'
+					value={firstName}
+					errors={errors}
+					onChange={handleChange}
+				/>
+				<Input
+					required
+					type='text'
+					name='major'
+					placeholder='Lastname...'
+					value={lastName}
+					errors={errors}
+					onChange={handleChange}
+				/>
+				<SelectPanel schools={Object.values(Schools)} name='major' text='Select your school' />
+				<SelectPanel majors={Object.values(Majors)} name='school' text='Select your major' />
+				<SimpleButton text='' className={["w-[300px]"]}>
+					<input type='submit' value='Register' />
+				</SimpleButton>
+			</form>
 
 			<p className=''>
 				Already have an account?

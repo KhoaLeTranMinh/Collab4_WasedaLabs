@@ -23,7 +23,7 @@ export default async function Page({ params }: { params: { school: string; major
 		<div className=''>
 			{!labData.status ? (
 				<div className='mb-10 text-center font-extrabold '>
-					<h1 className='text-[3.125rem]'>Laboratories from {MAJORS[major]} Major</h1>
+					<h1 className='text-[3.125rem] mb-20'>Laboratories from {MAJORS[major]} Major</h1>
 					{Object.values(labData).map((lab, index) => {
 						return <LabInfoCard key={index} data={lab} />
 					})}

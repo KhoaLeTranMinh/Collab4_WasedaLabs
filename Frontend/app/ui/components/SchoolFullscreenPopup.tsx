@@ -9,7 +9,7 @@ import { Schools } from "@/app/utility/constants.school"
 import getFirstTerm from "@/app/utility/getFirstTerm"
 const SchoolFullscreenPopup = (props) => {
 	const [isOpen, setIsOpen] = useState(false)
-	const [majors, school] = [props.majors, props.school]
+	const { majors, school } = props
 	const togglePopup = () => {
 		setIsOpen(!isOpen)
 	}

@@ -28,7 +28,7 @@ export default function LabInfoCard(props) {
 				<div className='col-span-2'>
 					{data ? <Image height={300} width={300} src={data["profImg"]} alt='' className='object-contain  ' /> : null}
 				</div>
-				<div className='col-span-4 flex-col justify-center items-center flex-wrap bg-pink-200'>
+				<div className='col-span-4 flex-col justify-center items-center flex-wrap '>
 					<div className=''>
 						<p className='text-lab'> {data["profName"]}</p>
 					</div>

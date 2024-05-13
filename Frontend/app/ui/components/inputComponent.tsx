@@ -14,13 +14,14 @@ const Input = ({ errors, name, onChange, placeholder, required, type, value }) =
 		<div className='mb-6 w-full'>
 			<div onClick={handleClick} className='flex flex-row items-center justify-center'>
 				<input
-					className='w-2/3 h-12 px-4 rounded-3xl   focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-opacity-50 font-sans text-lg text-gray-700 bg-[#D9D9D9]'
+					className='w-2/3 h-12 px-4 rounded-3xl   focus:outline-none focus:ring-2 focus:ring-pink-600 focus:ring-opacity-50 font-sans text-lg text-gray-700 bg-[#D9D9D9]'
 					ref={inputRef}
 					type={type}
 					name={name}
 					onChange={onChange}
 					placeholder={placeholder}
 					value={value}
+					required
 				/>
 			</div>
 			{errors && !value && required && <Errors data-testid='errors'>Required!</Errors>}

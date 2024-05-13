@@ -4,7 +4,6 @@
 import { useCallback } from "react"
 import { TextField, InputAdornment, Icon, IconButton } from "@mui/material"
 import Input from "@/app/ui/components/inputComponent"
-import styles from "./index.module.css"
 import React from "react"
 import Image from "next/image"
 import SignInImage from "@/public/SignIn.png"
@@ -47,7 +46,7 @@ const Page = () => {
 				errors={errors}
 				onChange={handleChange}
 			/>
-			<SimpleButton text='Login' />
+			<SimpleButton text='Login' className={["w-[300px]"]} />
 			<p className=''>
 				Don't have an account?
 				<Link href={"ui/signup"}>
