@@ -1,0 +1,360 @@
+{
+    "0": {
+        "labWebsite": "http://hi.cs.waseda.ac.jp/index.php/en/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/29-ishiakawa1-2.png",
+        "profName": "ISHIKAWA, Hiroshi",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Computer vision",
+            " Artificial Intelligence",
+            " Optimization"
+        ]
+    },
+    "1": {
+        "labWebsite": "http://www.km.comm.waseda.ac.jp/index_en.html",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/kameyama1.png",
+        "profName": "KAMEYAMA, Wataru",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Multimedia Information Distribution Systems",
+            " Multimedia Data Processing/Recognition/Classification"
+        ]
+    },
+    "2": {
+        "labWebsite": "http://www.kasahara.cs.waseda.ac.jp/index.html.en",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/kasahara01.png",
+        "profName": "KASAHARA, Hironori",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "High Perfomance Computing",
+            " Parallelizing Compiler",
+            "Green Multicore",
+            " Power Reduction",
+            " Medical Image Processing",
+            "Self Driving Automobile",
+            " Smart City",
+            " Embedded Computing",
+            " \r"
+        ]
+    },
+    "3": {
+        "labWebsite": "http://kasai.comm.waseda.ac.jp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/kasai.jpg",
+        "profName": "KASAI, Hiroyuki",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Theory and application of optimization",
+            " machine learning and signal processing"
+        ]
+    },
+    "4": {
+        "labWebsite": "https://www.katto.comm.waseda.ac.jp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/35-katto2.png",
+        "profName": "KATTO, Jiro",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Future Networking and Multimedia Signal Processing"
+        ]
+    },
+    "5": {
+        "labWebsite": "http://nlp-waseda.jp/en/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/kawahara.jpg",
+        "profName": "KAWAHARA, Daisuke",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Natural Language Processing",
+            " Web Information Processing",
+            " Artificial Intelligence"
+        ]
+    },
+    "6": {
+        "labWebsite": "http://www.apal.cs.waseda.ac.jp/index.html.en",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/34-kimura2.png",
+        "profName": "KIMURA, Keiji",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Processor architecture",
+            " Parallelizing compiler"
+        ]
+    },
+    "7": {
+        "labWebsite": "http://www.pcl.cs.waseda.ac.jp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/Kobayashi01.png",
+        "profName": "KOBAYASHI, Tetsunori",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Perceptual Computing",
+            " Spoken Language Processing",
+            " Image Processing",
+            " Intelligent Robot"
+        ]
+    },
+    "8": {
+        "labWebsite": "https://w-rdb.waseda.jp/html/100001045_en.html",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/ff04724acf1d1169579318d21f65c5b6.jpg",
+        "profName": "LIU, Jiang",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Wireless Communication and Sensing",
+            " Wireless Network Systems"
+        ]
+    },
+    "9": {
+        "labWebsite": "https://sem-maehara.w.waseda.jp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/44-maehara2.png",
+        "profName": "MAEHARA, Fumiaki",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Wireless Communications"
+        ]
+    },
+    "10": {
+        "labWebsite": "https://nsl.cs.waseda.ac.jp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/mori.png",
+        "profName": "MORI, Tatusya",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Information security and privacy"
+        ]
+    },
+    "11": {
+        "labWebsite": "https://morita.w.waseda.jp/?page_id=300&lang=en",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2024/04/d03b639d5389ba6d1d3b22462b00b3f6.png",
+        "profName": "MORITA, Itsuro",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Optical Communication System",
+            " Photonic Network"
+        ]
+    },
+    "12": {
+        "labWebsite": "http://www.dcl.cs.waseda.ac.jp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/41-nakajima2.png",
+        "profName": "NAKAJIMA, Tatsuo",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Interaction Design (AR",
+            " VR",
+            " NUI) Gameful Services and Social Media",
+            " Distributed Operating System"
+        ]
+    },
+    "13": {
+        "labWebsite": "http://www.nz.comm.waseda.ac.jp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/nakazato1.png",
+        "profName": "NAKAZATO, Hidenori",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "In-Network Processing",
+            " Future Internet"
+        ]
+    },
+    "14": {
+        "labWebsite": "https://sites.google.com/site/ogatetsu/eng",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/Ogawa.png",
+        "profName": "OGAWA, Tetsuji",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Acoustics",
+            " Speech",
+            " and Signal Processing; Machine Learning Applications; Artificial Intelligence"
+        ]
+    },
+    "15": {
+        "labWebsite": "http://sakailab.com/english/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/34857281a67e109c706928ffdc6acf911.png",
+        "profName": "SAKAI, Tetsuya",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Information access",
+            " Natural language processing",
+            " Interaction",
+            " Social good"
+        ]
+    },
+    "16": {
+        "labWebsite": "https://sako-lab.jp/en/index.html",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2024/04/88dc5a50cabe0b11b57eb93dc2b5250c.png",
+        "profName": "SAKO, Kazue",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Applied Cryptography",
+            " Privacy Enhancing Technologies",
+            " Digital Identity"
+        ]
+    },
+    "17": {
+        "labWebsite": "http://www.shimamotolab.sci.waseda.ac.jp/en/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/shimamoto1.png",
+        "profName": "SHIMAMOTO, Shigeru",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Wireless Access",
+            " Air and Space Communication",
+            " Body Area Network"
+        ]
+    },
+    "18": {
+        "labWebsite": "https://www.cbio.cs.waseda.ac.jp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/shimizu.png",
+        "profName": "SHIMIZU, Kana",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "computational biology"
+        ]
+    },
+    "19": {
+        "labWebsite": "https://www.sugawara.org/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/Sugawara.png",
+        "profName": "SUGAWARA, Toshiharu",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Multi-agent systems",
+            " Artificial intelligence",
+            " Machine learning for cooperation and coordination",
+            " Multi-agent simulation"
+        ]
+    },
+    "20": {
+        "labWebsite": "https://www.l.sci.waseda.ac.jp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2023/05/tanaka-ishi2-1.png",
+        "profName": "TANAKA-ISHII, Kumiko",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Computational linguistics",
+            " Natural language processing",
+            " Finance engineering using language data"
+        ]
+    },
+    "21": {
+        "labWebsite": "https://terauchi.w.waseda.jp",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/terauchi11.png",
+        "profName": "TERAUCHI, Tachio",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Programming Languages",
+            " Mathematical Logic",
+            " Formal Verification",
+            " Formal Language Theory",
+            " Security",
+            " Program Verification",
+            " Program Synthesis",
+            " Automated Deduction",
+            " Type Systems"
+        ]
+    },
+    "22": {
+        "labWebsite": "http://www.togawa.cs.waseda.ac.jp/English/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/40-togawa2.png",
+        "profName": "TOGAWA, Nozomu",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Information System",
+            " Quantum Computing"
+        ]
+    },
+    "23": {
+        "labWebsite": "https://researchmap.jp/ubayashi?lang=en",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2024/04/d961bd09a44fc1701b217d770b6c453d.png",
+        "profName": "UBAYASHI, Naoyasu",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Software Engineering",
+            " Programming Languages",
+            " AI-Assisted Software"
+        ]
+    },
+    "24": {
+        "labWebsite": "https://uchida-lab.jp/en_index",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/uchida.png",
+        "profName": "UCHIDA, Masato",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Machine Learning Theory and Applications"
+        ]
+    },
+    "25": {
+        "labWebsite": "https://www.ueda.info.waseda.ac.jp/index.html",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/31-ueda2.png",
+        "profName": "UEDA, Kazunori",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Programming Languages",
+            " Advanced Computational Models",
+            " Knowledge Information Processing",
+            " Computer-Aided Verification",
+            " Hybrid Systems"
+        ]
+    },
+    "26": {
+        "labWebsite": "http://www.washi.cs.waseda.ac.jp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/washizaki-face4.png",
+        "profName": "WASHIZAKI, Hironori",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Software Engineering",
+            " Reliable Software Systems",
+            " Software Development Environments"
+        ]
+    },
+    "27": {
+        "labWebsite": "https://www.ams.giti.waseda.ac.jp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/watanabe.jpg",
+        "profName": "WATANABE, Hiroshi",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Video and Image Recognition",
+            " Video Coding"
+        ]
+    },
+    "28": {
+        "labWebsite": "https://www.yama.info.waseda.ac.jp/en/yamana-lab-information",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/4e359f94c900633218f505977770e955.png",
+        "profName": "YAMANA, Hayato",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Parallel and Distributed Computing",
+            " Big Data Analysis",
+            " Secure Computation"
+        ]
+    },
+    "29": {
+        "labWebsite": "http://www.islab.cs.waseda.ac.jp/wp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/yanagisawa_e1.png",
+        "profName": "YANAGISAWA, Masao",
+        "profPosition": "Professor",
+        "researchAreas": [
+            "Bioinformatics",
+            " Sensor signal processing"
+        ]
+    },
+    "30": {
+        "labWebsite": "https://www.shimamotolab.sci.waseda.ac.jp",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2024/04/0459d3c6155ec16c0cd077f4e9c96afe-1.png",
+        "profName": "PAN, Zhenni",
+        "profPosition": "Associate professor",
+        "researchAreas": [
+            "Wireless Communication Systems",
+            " Green Communications and Networks"
+        ]
+    },
+    "31": {
+        "labWebsite": "https://esslab.jp",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2024/04/916d407555a8b3be68248573bd914291.png",
+        "profName": "SIMO-SERRA, Edgar",
+        "profPosition": "Associate Professor",
+        "researchAreas": [
+            "Computer Graphics"
+        ]
+    },
+    "32": {
+        "labWebsite": "http://www.km.comm.waseda.ac.jp/index_en.html",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2024/04/56b69ecf5143f36f8f772d49968d60f5-1.png",
+        "profName": "WEN, Zheng",
+        "profPosition": "Associate professor",
+        "researchAreas": [
+            "Next Generation Information Networks",
+            " Emergency Communications Networks"
+        ]
+    }
+}
