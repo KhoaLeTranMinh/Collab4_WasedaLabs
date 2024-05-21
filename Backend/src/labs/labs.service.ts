@@ -10,7 +10,7 @@ import { UpdateLabDto } from "./dto/update-lab.dto";
 import { FirebaseAdmin } from "config/firebase.setup";
 import { getFirestore } from "firebase-admin/firestore";
 import { lab_combiner } from "src/utility/lab_combiner";
-import csce_data from "../../scraping/data/FSE/CSCE.json";
+import csce_data from "../../scraping/data/labs/FSE/CSCE.json";
 import { BadRequestException } from "@nestjs/common";
 import { determineSchoolAndMajor } from "../utility/determineSchoolAndMajor";
 

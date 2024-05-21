@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/ban-types */
 /* eslint-disable prettier/prettier */
 import {
   ValidatorConstraintInterface,
@@ -12,7 +13,7 @@ export enum Schools {
   CSE = "Creative Science and Engineering",
 }
 export enum Majors {
-  MS = "Math Sciences",
+  MS = "Mathematical Sciences",
   CSCE = "Computer Science and Communications Engineering",
   PHY = "Physics",
   CHEM = "Chemistry",
@@ -21,13 +22,13 @@ export enum Majors {
   CE = "Civil and Environmental Engineering",
 }
 @ValidatorConstraint({ async: true })
-export class IsValidMajorForSchoolConstraint
+export class IsValidMajorForSchoolValidator
   implements ValidatorConstraintInterface
 {
   validate(major: Majors, args: ValidationArguments) {
     const [relatedPropertyName] = args.constraints;
     const school = (args.object as any)[relatedPropertyName];
-    console.log(school);
+    // console.log(school);
 
     if (school === Schools.FSE) {
       return [Majors.MS, Majors.CSCE].includes(major);
@@ -54,7 +55,7 @@ export function IsValidMajorForSchool(
       propertyName: propertyName,
       options: validationOptions,
       constraints: [property],
-      validator: IsValidMajorForSchoolConstraint,
+      validator: IsValidMajorForSchoolValidator,
     });
   };
 }

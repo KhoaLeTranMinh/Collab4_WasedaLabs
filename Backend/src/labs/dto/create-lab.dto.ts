@@ -3,7 +3,7 @@ import {
   Schools,
   Majors,
   IsValidMajorForSchool,
-} from "src/user/dto/customUserValidator";
+} from "src/user/validator/customUserValidator";
 import { PrimaryGeneratedColumn } from "typeorm";
 
 export class CreateLabDto {
