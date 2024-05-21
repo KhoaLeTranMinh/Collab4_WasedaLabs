@@ -2,7 +2,6 @@
 import React, { useEffect } from "react"
 import LabInfoCard from "../../../components/labInfo"
 import { useParams, useRouter } from "next/navigation"
-import GetLab from "../../../hooks/getDataLabs"
 import Custom404 from "@/app/404"
 import * as SCHOOLS from "@/app/utility/constants.school"
 import * as MAJORS from "@/app/utility/constants.major"
