@@ -29,13 +29,15 @@ const SchoolFullscreenPopup = (props) => {
 						<button onClick={togglePopup} className={styles.closeButton}>
 							Close
 						</button>
-						<div className='flex flex-col justify-center'>
+						<div className='flex flex-col justify-center '>
 							{majors.map((major, index) => {
 								const major_link = getFirstTerm(major, Majors)
 								return (
 									<Link href={`/ui/inner/${school_link}/${major_link}`} key={index}>
 										<div key={index}>
-											<SimpleButton text={major}>Major in </SimpleButton>
+											<SimpleButton text={major} className={"w-full"}>
+												Major in{" "}
+											</SimpleButton>
 										</div>
 									</Link>
 								)
