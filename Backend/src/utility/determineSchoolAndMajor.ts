@@ -1,5 +1,5 @@
 /* eslint-disable prettier/prettier */
-import { Majors, Schools } from "src/user/dto/customUserValidator";
+import { Majors, Schools } from "src/user/validator/customUserValidator";
 
 export function determineSchoolAndMajor(
   school_input: string,

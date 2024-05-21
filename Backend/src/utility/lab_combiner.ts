@@ -1,11 +1,11 @@
 /* eslint-disable prettier/prettier */
-import * as ms_data from "../../scraping/data/FSE/MS.json";
-import * as csce_data from "../../scraping/data/FSE/CSCE.json";
-import * as bio_data from "../../scraping/data/ASE/Bioscience.json";
-import * as chem_data from "../../scraping/data/ASE/Chemistry.json";
-import * as physic_data from "../../scraping/data/ASE/Physics.json";
-import * as ce_data from "../../scraping/data/CSE/CE.json";
-import * as me_data from "../../scraping/data/CSE/ME.json";
+import * as ms_data from "../../scraping/data/labs/FSE/MS.json";
+import * as csce_data from "../../scraping/data/labs/FSE/CSCE.json";
+import * as bio_data from "../../scraping/data/labs/ASE/Bioscience.json";
+import * as chem_data from "../../scraping/data/labs/ASE/Chemistry.json";
+import * as physic_data from "../../scraping/data/labs/ASE/Physics.json";
+import * as ce_data from "../../scraping/data/labs/CSE/CE.json";
+import * as me_data from "../../scraping/data/labs/CSE/ME.json";
 
 export const lab_combiner = {
   CSCE: csce_data,

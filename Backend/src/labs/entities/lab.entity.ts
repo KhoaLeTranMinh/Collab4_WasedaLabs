@@ -1,10 +1,10 @@
-import { IsEnum, IsNotEmpty } from 'class-validator';
+import { IsEnum, IsNotEmpty } from "class-validator";
 import {
   IsValidMajorForSchool,
   Majors,
   Schools,
-} from 'src/user/dto/customUserValidator';
-import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
+} from "src/user/validator/customUserValidator";
+import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
 
 @Entity()
 export class Lab {
@@ -30,8 +30,8 @@ export class Lab {
   @IsNotEmpty()
   @Column()
   @IsEnum(Majors)
-  @IsValidMajorForSchool('school', {
-    message: 'major has to belong to the corresponding school',
+  @IsValidMajorForSchool("school", {
+    message: "major has to belong to the corresponding school",
   })
   major: Majors;
 }
