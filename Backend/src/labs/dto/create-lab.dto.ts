@@ -8,6 +8,8 @@ import { PrimaryGeneratedColumn } from "typeorm";
 
 export class CreateLabDto {
   @IsNotEmpty()
+  index: number;
+  @IsNotEmpty()
   profName: string;
   @IsNotEmpty()
   profImg: string;
@@ -28,4 +30,10 @@ export class CreateLabDto {
     message: "major has to belong to the corresponding school",
   })
   major: Majors;
+  @IsNotEmpty()
+  ratings: number[];
+  @IsNotEmpty()
+  rating: number;
+  @IsNotEmpty()
+  comments: string[];
 }

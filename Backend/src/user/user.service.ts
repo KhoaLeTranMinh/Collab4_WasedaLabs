@@ -23,10 +23,15 @@ import { app } from "firebase-admin";
 import { User } from "./entities/user";
 import { on } from "events";
 import { LoginRequest } from "./user.controller";
+import { FirebaseApp } from "firebase/app";
 @Injectable()
 export class UserService {
   private logger: Logger = new Logger(UserService.name);
-  constructor(private readonly admin: FirebaseAdmin) {}
+  db: FirebaseFirestore.Firestore;
+  app: FirebaseApp;
+  constructor(private readonly admin: FirebaseAdmin) {
+    this.app = this.admin.setup();
+  }
 
   async login(request: LoginRequest): Promise<any> {
     const app = this.admin.setup();
@@ -100,5 +105,34 @@ export class UserService {
     } catch (error) {
       throw new BadRequestException(error.message);
     }
+  }
+
+  async signOut(): Promise<void> {
+    const auth = getAuth();
+    await auth
+      .signOut()
+      .then(() => {
+        console.log("User signed out");
+      })
+      .catch((error) => {
+        throw new BadRequestException(error.message);
+      });
+  }
+
+  async getCurrentUser(): Promise<User> {
+    const auth = getAuth();
+    const user = auth.currentUser;
+    if (!user) {
+      throw new BadRequestException("User is not signed in");
+    }
+    const user_email = user.email;
+    const db = getFirestore();
+    const userRef = db.collection("users");
+    const userSnapshot = await userRef.where("email", "==", user_email).get();
+    let returnUser;
+    userSnapshot.forEach((doc) => {
+      returnUser = doc.data();
+    });
+    return returnUser;
   }
 }

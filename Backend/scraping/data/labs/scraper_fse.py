@@ -56,7 +56,7 @@ def scraper_fse(url, schoolName, majorName):
 
 # print(lab_infos["researchAreas"])
     script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
-    rel_path = "./Data/"+schoolName+'/'+f"{majorName}.json"
+    rel_path = "./"+schoolName+'/'+f"{majorName}.json"
     abs_file_path = os.path.join(script_dir, rel_path)        
     with open(abs_file_path, mode="w+") as file:
         json.dump(lab_infos, file, sort_keys=True, indent=4)

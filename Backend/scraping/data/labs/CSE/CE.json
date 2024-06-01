@@ -1,245 +1,353 @@
 {
     "0": {
+        "comments": [],
+        "index": "0",
         "labWebsite": "http://www.f.waseda.jp/akagi/profakagi.html",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/63.jpg",
         "profName": "AKAGI, Hirokazu ",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Soil Mechanics & Geotechnical Engineering "
         ]
     },
     "1": {
+        "comments": [],
+        "index": "1",
         "labWebsite": "http://www.f.waseda.jp/akiyama617/",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/41.jpg",
         "profName": "AKIYAMA, Mitsuyoshi ",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Concrete Engineering"
         ]
     },
-    "2": {
-        "labWebsite": "none",
-        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/116.jpg",
-        "profName": "ESTEBAN, Miguel",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Coastal Engineering"
-        ]
-    },
-    "3": {
-        "labWebsite": "http://www.furui.env.waseda.ac.jp/",
-        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/91.jpg",
-        "profName": "FURUI, Kenji ",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Geomechanics and Petroleum Production Engineering"
-        ]
-    },
-    "4": {
-        "labWebsite": "none",
-        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/167.jpg",
-        "profName": "HAYAMI, Hiroshi",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Atmospheric and Environmental Sciences"
-        ]
-    },
-    "5": {
-        "labWebsite": "https://itsubo-lab.env.waseda.ac.jp/",
-        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/155.jpg",
-        "profName": "ITSUBO, Norihiro ",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Life Cycle Assessment, Environmental Impact Assessment"
-        ]
-    },
-    "6": {
-        "labWebsite": "none",
-        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/115.jpg",
-        "profName": "IWANAMI, Motoi",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Structural Engineering & Structural Design"
-        ]
-    },
-    "7": {
-        "labWebsite": "https://www.env.waseda.ac.jp/laboratory/details/?id=9",
-        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/165.jpg",
-        "profName": "KAWABE\uff0c Yoshishige ",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Environmental engineering, Environmental risk"
-        ]
-    },
-    "8": {
-        "labWebsite": "none",
-        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/118.jpg",
-        "profName": "KITANO, Naohiro ",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "City and Regional Planning"
-        ]
-    },
-    "9": {
-        "labWebsite": "https://hkomine.w.waseda.jp/",
-        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/97.jpg",
-        "profName": "KOMINE, Hideo ",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Geotechnical engineering"
-        ]
-    },
     "10": {
+        "comments": [],
+        "index": "10",
         "labWebsite": "http://www.kurihara.env.waseda.ac.jp/",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/13.jpg",
         "profName": "KURIHARA, Masanori ",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Petroleum Engineering"
         ]
     },
     "11": {
+        "comments": [],
+        "index": "11",
         "labWebsite": "http://www.waseda.jp/sem-morimoto/en_index.html",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/39.jpg",
         "profName": "MORIMOTO, Akinori ",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Transportation Planning"
         ]
     },
     "12": {
+        "comments": [],
+        "index": "12",
         "labWebsite": "https://www.okochi-waseda.com/",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/01.jpg",
         "profName": "OKOCHI, Hiroshi ",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Atmospheric and Aquatic Environmental Chemistry"
         ]
     },
     "13": {
+        "comments": [],
+        "index": "13",
         "labWebsite": "http://www.ono-lab.sci.waseda.ac.jp/",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/96.jpg",
         "profName": "ONO, Kiyoshi ",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Structural Mechanics"
         ]
     },
     "14": {
+        "comments": [],
+        "index": "14",
         "labWebsite": "https://www.env.waseda.ac.jp/",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/168.jpg",
         "profName": "OUCHI, Hisanao ",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Reservoir Engineering, Petroleum Engineering"
         ]
     },
     "15": {
+        "comments": [],
+        "index": "15",
         "labWebsite": "http://sakakibara-cee.w.waseda.jp/",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/158.jpg",
         "profName": "SAKAKIBARA, Yutaka ",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Water Quality & Environmental Engineering "
         ]
     },
     "16": {
+        "comments": [],
+        "index": "16",
         "labWebsite": "https://www.env.waseda.ac.jp/",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/159.jpg",
         "profName": "SASAKI, Keiko ",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Environmental Remediation, Biohydrometallurgy"
         ]
     },
     "17": {
+        "comments": [],
+        "index": "17",
         "labWebsite": "none",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/126.jpg",
         "profName": "SASAKI, Kuniaki",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Water Quality & Environmental Engineering "
         ]
     },
     "18": {
+        "comments": [],
+        "index": "18",
         "labWebsite": "http://www.waseda.jp/sem-yoh/index.html",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/45.jpg",
         "profName": "SASAKI, Yoh",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Urban and Regional Design "
         ]
     },
     "19": {
+        "comments": [],
+        "index": "19",
         "labWebsite": "none",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/117.jpg",
         "profName": "SATO, Yasuhiko",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Structural Engineering & Structural Design"
         ]
     },
+    "2": {
+        "comments": [],
+        "index": "2",
+        "labWebsite": "none",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/116.jpg",
+        "profName": "ESTEBAN, Miguel",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Coastal Engineering"
+        ]
+    },
     "20": {
+        "comments": [],
+        "index": "20",
         "labWebsite": "http://www.waseda.jp/sem-sekine/",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/09.jpg",
         "profName": "SEKINE, Masato ",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "River Engineering"
         ]
     },
     "21": {
+        "comments": [],
+        "index": "21",
         "labWebsite": "http://takaguchi.arch.waseda.ac.jp/",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/21.jpg",
         "profName": "TAKAGUCHI, Hiroto",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Environment Media"
         ]
     },
     "22": {
+        "comments": [],
+        "index": "22",
         "labWebsite": "http://www.tokoro.env.waseda.ac.jp/",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/10.jpg",
         "profName": "TOKORO, Chiharu ",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Powder Processing for Resources and Environmental Treatment"
         ]
     },
     "23": {
+        "comments": [],
+        "index": "23",
         "labWebsite": "http://researchers.waseda.jp/profile/en.dce5e5e25a8cc2afeb0d373595294c01.html",
         "profImg": "http://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/ueda.jpg",
         "profName": "UEDA, Takumi",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Exploration Geophysics"
         ]
     },
     "24": {
+        "comments": [],
+        "index": "24",
         "labWebsite": "http://researchers.waseda.jp/profile/ja.ac6d8e5a80cd4ce8ca8bdd02e96cead3.html",
         "profImg": "http://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/yamaguchi.jpg",
         "profName": "YAMAGUCHI, Katsunori",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Materials Processing Engineering "
         ]
     },
     "25": {
+        "comments": [],
+        "index": "25",
         "labWebsite": "http://researchers.waseda.jp/profile/en.206e2c79498ca2eb1da3e0a24d5620ba.html",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/90.jpg",
         "profName": "KOIWA, Masaki",
         "profPosition": "Associate Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "History of Architecture"
         ]
     },
     "26": {
+        "comments": [],
+        "index": "26",
         "labWebsite": "https://tmikami.w.waseda.jp/",
         "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/160.jpg",
         "profName": "MIKAMI, Takahito ",
         "profPosition": "Associate Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Coastal Engineering and Management"
+        ]
+    },
+    "3": {
+        "comments": [],
+        "index": "3",
+        "labWebsite": "http://www.furui.env.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/91.jpg",
+        "profName": "FURUI, Kenji ",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Geomechanics and Petroleum Production Engineering"
+        ]
+    },
+    "4": {
+        "comments": [],
+        "index": "4",
+        "labWebsite": "none",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/167.jpg",
+        "profName": "HAYAMI, Hiroshi",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Atmospheric and Environmental Sciences"
+        ]
+    },
+    "5": {
+        "comments": [],
+        "index": "5",
+        "labWebsite": "https://itsubo-lab.env.waseda.ac.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/155.jpg",
+        "profName": "ITSUBO, Norihiro ",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Life Cycle Assessment, Environmental Impact Assessment"
+        ]
+    },
+    "6": {
+        "comments": [],
+        "index": "6",
+        "labWebsite": "none",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/115.jpg",
+        "profName": "IWANAMI, Motoi",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Structural Engineering & Structural Design"
+        ]
+    },
+    "7": {
+        "comments": [],
+        "index": "7",
+        "labWebsite": "https://www.env.waseda.ac.jp/laboratory/details/?id=9",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/165.jpg",
+        "profName": "KAWABE\uff0c Yoshishige ",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Environmental engineering, Environmental risk"
+        ]
+    },
+    "8": {
+        "comments": [],
+        "index": "8",
+        "labWebsite": "none",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/118.jpg",
+        "profName": "KITANO, Naohiro ",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "City and Regional Planning"
+        ]
+    },
+    "9": {
+        "comments": [],
+        "index": "9",
+        "labWebsite": "https://hkomine.w.waseda.jp/",
+        "profImg": "https://www.cse.sci.waseda.ac.jp/contents/wp-content/themes/cse/img/teacher/97.jpg",
+        "profName": "KOMINE, Hideo ",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Geotechnical engineering"
         ]
     }
 }

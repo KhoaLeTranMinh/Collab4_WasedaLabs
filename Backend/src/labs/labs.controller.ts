@@ -45,15 +45,48 @@ export class LabsController {
       );
     }
   }
+  @Get("get/:school/:major/:id")
+  async find_one(
+    @Param("school") school: string,
+    @Param("major") major: string,
+    @Param("id") id: number,
+  ): Promise<CreateLabDto> {
+    try {
+      const lab = await this.labsService.findOne(school, major, id);
+      return lab;
+    } catch (error) {
+      throw new HttpException(
+        {
+          status: HttpStatus.NOT_FOUND,
+          error: "Invalid school or major or major does not belong to school",
+        },
+        HttpStatus.NOT_FOUND,
+        {
+          cause: error,
+        },
+      );
+    }
+  }
 
   // @Get(":id")
   // findOne(@Param("id") id: string) {
   //   return this.labsService.findOne(+id);
   // }
 
-  @Patch(":id")
-  update(@Param("id") id: string, @Body() updateLabDto: UpdateLabDto) {
-    return this.labsService.update(+id, updateLabDto);
+  @Patch("update/:school/:major/:id")
+  update(
+    @Param("school") school: string,
+    @Param("major") major: string,
+    @Param("id") id: number,
+    @Body() updateLabDto: UpdateLabDto,
+  ) {
+    // const lab = this.labsService.findOne(school, major, id);
+    return this.labsService.updateCommentAndRating(
+      school,
+      major,
+      id,
+      updateLabDto,
+    );
   }
 
   @Delete(":id")

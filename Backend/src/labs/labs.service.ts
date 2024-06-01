@@ -73,6 +73,10 @@ export class LabsService implements OnApplicationBootstrap {
         researchAreas: lab["researchAreas"],
         school: school,
         major: major,
+        ratings: lab["ratings"],
+        rating: lab["rating"],
+        comments: lab["comments"],
+        index: lab["index"],
       };
 
       await doc_ref.set(lab_push);
@@ -100,13 +104,54 @@ export class LabsService implements OnApplicationBootstrap {
     });
     return result;
   }
+  async findOne(
+    school: string,
+    major: string,
+    id: number,
+  ): Promise<CreateLabDto> {
+    const db = this.db;
+    const lab_ref = db
+      .collection("labs")
+      .doc(`${school}`)
+      .collection(`${major}`)
+      .doc(`${id}`);
+    const result = await lab_ref.get().then((snapshot) => {
+      if (!snapshot.exists) {
+        throw new BadRequestException();
+      } else {
+        return snapshot.data() as CreateLabDto;
+      }
+    });
+    return result;
+  }
 
   // findOne(id: number) {
   //   return `This action returns a #${id} lab`;
   // }
 
-  update(id: number, updateLabDto: UpdateLabDto) {
-    return `This action updates a #${id} lab`;
+  async updateCommentAndRating(
+    school: string,
+    major: string,
+    id: number,
+    updateLabInfo: UpdateLabDto,
+  ) {
+    const db = this.db;
+    const { comment, rating } = updateLabInfo;
+    const lab_ref = db
+      .collection("labs")
+      .doc(`${school}`)
+      .collection(`${major}`)
+      .doc(`${id}`);
+    const lab = await this.findOne(school, major, id);
+    lab.comments.push(comment);
+    lab.ratings.push(rating);
+    const averageRating =
+      lab.ratings.reduce((acc, rating) => {
+        return acc + rating;
+      }, 0) / lab.ratings.length;
+    lab.rating = averageRating;
+    await lab_ref.set(lab);
+    return HttpStatus.OK;
   }
 
   remove(id: number) {

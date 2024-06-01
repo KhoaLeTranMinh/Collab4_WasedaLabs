@@ -1,105 +1,41 @@
 {
     "0": {
+        "comments": [],
+        "index": "0",
         "labWebsite": "http://bowen.w.waseda.jp/",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/02.jpg",
         "profName": "BOWEN, Mark",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Applied Mathematics",
             " Nonlinear differential equations and systems"
         ]
     },
     "1": {
+        "comments": [],
+        "index": "1",
         "labWebsite": "https://fukuizumi.kinsta.cloud/",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2023/05/4985dfac153e444a0ff097e5ae48831e.png",
         "profName": "FUKUIZUMI, Reika",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "SPDE",
             " nonlinear dispersive equations"
         ]
     },
-    "2": {
-        "labWebsite": "https://yhomma.w.waseda.jp/",
-        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/10-homma2.png",
-        "profName": "HOMMA, Yasushi",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Geometry and analysis related to Dirac operators."
-        ]
-    },
-    "3": {
-        "labWebsite": "https://sites.google.com/view/takeshi-ikeda/",
-        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/01_ikeda-1.jpg",
-        "profName": "IKEDA, Takeshi",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Geometry",
-            " Representation theory",
-            " Combinatorics"
-        ]
-    },
-    "4": {
-        "labWebsite": "none",
-        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/16-itou1.png",
-        "profName": "ITO, Kimihisa",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Non-equilibrium Thermodynamics",
-            " High Tempereture Physucal Chemistry"
-        ]
-    },
-    "5": {
-        "labWebsite": "http://www.f.waseda.jp/kaji/",
-        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/04-kaji1.png",
-        "profName": "KAJI, Hajime",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Algebraic Geometry"
-        ]
-    },
-    "6": {
-        "labWebsite": "http://www.kashi.info.waseda.ac.jp/",
-        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/18-kashiwagi2.png",
-        "profName": "KASHIWAGI, Masahide",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Numerical Analysis"
-        ]
-    },
-    "7": {
-        "labWebsite": "none",
-        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/06-kozono1.png",
-        "profName": "KOZONO, Hideo",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Theory of partial differential Navier Stokes equation describing the motion of fluids",
-            " and related partial differential equations"
-        ]
-    },
-    "8": {
-        "labWebsite": "https://t-kumagai.w.waseda.jp",
-        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2022/06/kumagaya-1.png",
-        "profName": "KUMAGAI, Takashi",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Probability Theory"
-        ]
-    },
-    "9": {
-        "labWebsite": "http://www.f.waseda.jp/kuto/",
-        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/kuto.jpg",
-        "profName": "KUTO, Kousuke",
-        "profPosition": "Professor",
-        "researchAreas": [
-            "Nonlinear Partial Differential Equations"
-        ]
-    },
     "10": {
+        "comments": [],
+        "index": "10",
         "labWebsite": "http://www.f.waseda.jp/kmaruno/",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/maruno1.png",
         "profName": "MARUNO, Kenichi",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Mathematical Physics",
             " Integrable Systems",
@@ -107,19 +43,27 @@
         ]
     },
     "11": {
+        "comments": [],
+        "index": "11",
         "labWebsite": "http://www.matsu.mgmt.waseda.ac.jp/?la=en",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/27-matsushima2.png",
         "profName": "MATSUSHIMA, Toshiyasu",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Information Theory"
         ]
     },
     "12": {
+        "comments": [],
+        "index": "12",
         "labWebsite": "https://sites.google.com/site/tmiezaki/",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/miezaki.png",
         "profName": "MIEZAKI, Tsuyoshi",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Algebraic Combinatorics",
             " Algebraic Coding theory",
@@ -127,37 +71,53 @@
         ]
     },
     "13": {
+        "comments": [],
+        "index": "13",
         "labWebsite": "http://www.f.waseda.jp/murakami/index.html",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/11-murakami2.png",
         "profName": "MURAKAMI, Jun",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Study of knots and 3-manifolds by using quantum invariants and related representation theory"
         ]
     },
     "14": {
+        "comments": [],
+        "index": "14",
         "labWebsite": "http://www.f.waseda.jp/nagai.y/",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/14-nagai2.png",
         "profName": "NAGAI, Yasunari",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Algebraic Geometry"
         ]
     },
     "15": {
+        "comments": [],
+        "index": "15",
         "labWebsite": "https://hnarita.w.waseda.jp/english.htm",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/narita.png",
         "profName": "NARITA, Hiro-aki",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Number theory"
         ]
     },
     "16": {
+        "comments": [],
+        "index": "16",
         "labWebsite": "http://web.tohoku.ac.jp/ogawa/index.html",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2024/05/824b1f9d5c819eb014b7a4f2b535277a-1.png",
         "profName": "OGAWA, Takayoshi",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Functional Analysis",
             " Real Analsis",
@@ -165,19 +125,27 @@
         ]
     },
     "17": {
+        "comments": [],
+        "index": "17",
         "labWebsite": "https://ogilab.w.waseda.jp/",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2023/05/b22833338c06ba7ebe4d723cd242d806-2.png",
         "profName": "OGITA, Takeshi",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Numerical Analysis"
         ]
     },
     "18": {
+        "comments": [],
+        "index": "18",
         "labWebsite": "https://sites.google.com/view/applied-singularity-theory",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2023/05/omoto2.png",
         "profName": "OHMOTO, Toru",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Singularity Theory",
             " Topology",
@@ -185,29 +153,54 @@
         ]
     },
     "19": {
+        "comments": [],
+        "index": "19",
         "labWebsite": "none",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2023/05/ohnita2.png",
         "profName": "OHNITA, Yoshihiro",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Differential Geometry",
             " Harmonic Map Theory"
         ]
     },
+    "2": {
+        "comments": [],
+        "index": "2",
+        "labWebsite": "https://yhomma.w.waseda.jp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/10-homma2.png",
+        "profName": "HOMMA, Yasushi",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Geometry and analysis related to Dirac operators."
+        ]
+    },
     "20": {
+        "comments": [],
+        "index": "20",
         "labWebsite": "none",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/03-ozaki1.png",
         "profName": "OZAKI, Manabu",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Algebra"
         ]
     },
     "21": {
+        "comments": [],
+        "index": "21",
         "labWebsite": "https://www.shimizu.sci.waseda.ac.jp/ys/",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/shimizu1.png",
         "profName": "SHIMIZU, Yasutaka",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Statistical inference",
             " stochastic processes",
@@ -215,83 +208,134 @@
         ]
     },
     "22": {
+        "comments": [],
+        "index": "22",
         "labWebsite": "http://hakotama.jp/laboratory/index.html.en",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/22-takahashi2.png",
         "profName": "TAKAHASHI, Daisuke",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Discrete nonlinear systems",
             " especially discrete integrable systems using ultradiscretization method"
         ]
     },
     "23": {
+        "comments": [],
+        "index": "23",
         "labWebsite": "none",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/09-tanaka1.png",
         "profName": "TANAKA, Kazunaga",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Variational problems. Nonlinear differential equations"
         ]
     },
     "24": {
+        "comments": [],
+        "index": "24",
         "labWebsite": "https://toyoizumi.w.waseda.jp/",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/25-toyoizumi2.png",
         "profName": "TOYOIZUMI, Hiroshi",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Social system engineering/safety system"
         ]
     },
     "25": {
+        "comments": [],
+        "index": "25",
         "labWebsite": "none",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/usuba.png",
         "profName": "USUBA, Toshimichi",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Axiomatic Set Theory"
         ]
     },
     "26": {
+        "comments": [],
+        "index": "26",
         "labWebsite": "none",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/12-yamazaki2.png",
         "profName": "YAMAZAKI, Masao",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Partial Differential Equations and Real Analysis"
         ]
     },
     "27": {
+        "comments": [],
+        "index": "27",
         "labWebsite": "https://yoneda.w.waseda.jp/",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/13-yoneda2.png",
         "profName": "YONEDA, Gen",
         "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Theory of relativity"
         ]
     },
     "28": {
+        "comments": [],
+        "index": "28",
         "labWebsite": "https://www.youtube.com/channel/UCZFe7-vmShA0oRQ55FomoUg",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/HAYAMIZU.jpg",
         "profName": "HAYAMIZU, Momoko",
         "profPosition": "Associate Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Discrete mathematics and its application to biology"
         ]
     },
     "29": {
+        "comments": [],
+        "index": "29",
         "labWebsite": "https://sites.google.com/view/akanazawa",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2024/04/3c947575fda3752c8324a1f52978e184-1.png",
         "profName": "Kanazawa, Atsushi",
         "profPosition": "Associate professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "geometry"
         ]
     },
+    "3": {
+        "comments": [],
+        "index": "3",
+        "labWebsite": "https://sites.google.com/view/takeshi-ikeda/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/01_ikeda-1.jpg",
+        "profName": "IKEDA, Takeshi",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Geometry",
+            " Representation theory",
+            " Combinatorics"
+        ]
+    },
     "30": {
+        "comments": [],
+        "index": "30",
         "labWebsite": "https://liu.w.waseda.jp/English/",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/LIU-1.png",
         "profName": "LIU, Yan",
         "profPosition": "Associate Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Mathematical Statistics",
             "Time Series Analysis",
@@ -299,31 +343,123 @@
         ]
     },
     "31": {
+        "comments": [],
+        "index": "31",
         "labWebsite": "https://sites.google.com/site/kazuakitanaka0203e/home",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/05.jpg",
         "profName": "TANAKA, Kazuaki",
         "profPosition": "Associate Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Rigorous Numerical Computation"
         ]
     },
     "32": {
+        "comments": [],
+        "index": "32",
         "labWebsite": "https://sites.google.com/site/kdtrinhprob/Home",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/01.jpg",
         "profName": "TRINH, Khanh Duy",
         "profPosition": "Associate Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "probability theory",
             " applied probability theory"
         ]
     },
     "33": {
+        "comments": [],
+        "index": "33",
         "labWebsite": "none",
         "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2023/05/kubota3.png",
         "profName": "KUBOTA, Ayako",
         "profPosition": "Assistant Professor",
+        "rating": 0,
+        "ratings": [],
         "researchAreas": [
             "Algebraic Geometry"
+        ]
+    },
+    "4": {
+        "comments": [],
+        "index": "4",
+        "labWebsite": "none",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/16-itou1.png",
+        "profName": "ITO, Kimihisa",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Non-equilibrium Thermodynamics",
+            " High Tempereture Physucal Chemistry"
+        ]
+    },
+    "5": {
+        "comments": [],
+        "index": "5",
+        "labWebsite": "http://www.f.waseda.jp/kaji/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/04-kaji1.png",
+        "profName": "KAJI, Hajime",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Algebraic Geometry"
+        ]
+    },
+    "6": {
+        "comments": [],
+        "index": "6",
+        "labWebsite": "http://www.kashi.info.waseda.ac.jp/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/18-kashiwagi2.png",
+        "profName": "KASHIWAGI, Masahide",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Numerical Analysis"
+        ]
+    },
+    "7": {
+        "comments": [],
+        "index": "7",
+        "labWebsite": "none",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/06-kozono1.png",
+        "profName": "KOZONO, Hideo",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Theory of partial differential Navier Stokes equation describing the motion of fluids",
+            " and related partial differential equations"
+        ]
+    },
+    "8": {
+        "comments": [],
+        "index": "8",
+        "labWebsite": "https://t-kumagai.w.waseda.jp",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2022/06/kumagaya-1.png",
+        "profName": "KUMAGAI, Takashi",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Probability Theory"
+        ]
+    },
+    "9": {
+        "comments": [],
+        "index": "9",
+        "labWebsite": "http://www.f.waseda.jp/kuto/",
+        "profImg": "https://www.fse.sci.waseda.ac.jp/wp/wp-content/uploads/2021/09/kuto.jpg",
+        "profName": "KUTO, Kousuke",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Nonlinear Partial Differential Equations"
         ]
     }
 }

@@ -1,10 +1,12 @@
 import "@/app/global.css"
-import { inter, lusitana } from "@/app/fonts"
-
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+import { inter } from "@/app/fonts"
+import LogInContextProvider from "./utility/logInContextProvider"
+export default async function RootLayout({ children }: { children: React.ReactNode }) {
 	return (
 		<html lang='en'>
-			<body className={`${inter.className} antialiased`}>{children}</body>
+			<body className={`${inter.className} antialiased`}>
+				<LogInContextProvider>{children}</LogInContextProvider>
+			</body>
 		</html>
 	)
 }

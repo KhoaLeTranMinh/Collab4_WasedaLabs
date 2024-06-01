@@ -41,16 +41,10 @@ export class User {
   password: string;
 
   @IsNotEmpty()
-  @MinLength(2)
-  @MaxLength(20)
-  @IsAlpha()
   @Column()
   firstName: string;
 
   @IsNotEmpty()
-  @MinLength(2)
-  @MaxLength(20)
-  @IsAlpha()
   @Column()
   lastName: string;
 
