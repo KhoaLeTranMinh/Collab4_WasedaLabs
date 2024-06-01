@@ -88,7 +88,7 @@ def scraper_fse(url="https://www.cse.sci.waseda.ac.jp/department-en/me/", school
             # print(content_2)
             # print(content_1, content_2)
     script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
-    rel_path = "./Data/"+schoolName+'/'+f"{majorName}.json"
+    rel_path = "./"+schoolName+'/'+f"{majorName}.json"
     abs_file_path = os.path.join(script_dir, rel_path)        
     with open(abs_file_path, mode="w+") as file:
         json.dump(lab_infos, file, sort_keys=True, indent=4)

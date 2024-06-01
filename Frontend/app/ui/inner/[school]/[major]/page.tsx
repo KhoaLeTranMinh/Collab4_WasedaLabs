@@ -1,35 +1,31 @@
-// "use client"
-import React, { useEffect } from "react"
+"use client"
+import React, { use, useContext, useEffect } from "react"
 import LabInfoCard from "../../../components/labInfo"
-import { useParams, useRouter } from "next/navigation"
 import Custom404 from "@/app/404"
-import * as SCHOOLS from "@/app/utility/constants.school"
 import * as MAJORS from "@/app/utility/constants.major"
+import { LabContext, useLabData } from "../../../../utility/labContextProvider"
+import { log } from "console"
+import { useLogin } from "@/app/utility/logInContextProvider"
 export const dynamic = "force-dynamic"
-export default async function Page({ params }: { params: { school: string; major: string } }) {
+export default function Page({ params }: { params: { school: string; major: string } }) {
 	const { school, major } = params
 
-	const labData = await fetch(
-		`http://localhost:3000/labs/get/${school}/${major}`,
-		{ cache: "force-cache" }
-		// { next: { revalidate: 3600 } }
-	).then((data) => {
-		return data.json()
-	})
-	// console.log(labData)
-
+	let { labData, setLabData } = useContext(LabContext)
+	useEffect(() => {
+		labData.map((lab) => {
+			console.log(lab)
+		})
+		// console.log(labData)
+	}, [labData])
 	return (
 		<div className=''>
-			{!labData.status ? (
-				<div className='mb-10 text-center font-extrabold '>
-					<h1 className='text-[3.125rem] mb-20'>Laboratories from {MAJORS[major]} Major</h1>
-					{Object.values(labData).map((lab, index) => {
-						return <LabInfoCard key={index} data={lab} />
-					})}
-				</div>
-			) : (
-				<Custom404 />
-			)}
+			<div className='mb-10 text-center font-extrabold '>
+				<h1 className='text-[3.125rem] mb-20'>Laboratories from {MAJORS[major]} Major</h1>
+				<div></div>
+				{labData.map((lab, index) => {
+					return <LabInfoCard key={index} data={lab} school={school} major={major} index={lab["index"]} />
+				})}
+			</div>
 		</div>
 	)
 }

@@ -1,242 +1,444 @@
 {
-  "0": {
-    "labWebsite": "http://www.hep.phys.waseda.ac.jp/index-j.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_abe01.jpg",
-    "profName": "Hiroyuki Abe",
-    "profPosition": "Professor",
-    "researchAreas": ["Theoretical Particle Physics"]
-  },
-  "1": {
-    "labWebsite": "http://www.qo.phys.waseda.ac.jp/index_en.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_aoki01.jpg",
-    "profName": "Takao Aoki",
-    "profPosition": "Professor",
-    "researchAreas": ["Quantum Optics Research"]
-  },
-  "2": {
-    "labWebsite": "http://researchers.waseda.jp/profile/en.032ec3da195b88b999aab4887f37d604.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_harayama01.jpg",
-    "profName": "Takahisa Harayama",
-    "profPosition": "Professor",
-    "researchAreas": ["Nonlinear Physics"]
-  },
-  "3": {
-    "labWebsite": "http://www.f.waseda.jp/thasega/",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_hasegawa01.jpg",
-    "profName": "Tsuyoshi Hasegawa",
-    "profPosition": "Professor",
-    "researchAreas": ["Integrated Optical Devices"]
-  },
-  "4": {
-    "labWebsite": "http://researchers.waseda.jp/profile/ja.7adb49b0eb9b8d3a4e24954c1858ba01.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_inoue01.jpg",
-    "profName": "Akio Inoue",
-    "profPosition": "Professor",
-    "researchAreas": ["Observational Astrophysics"]
-  },
-  "5": {
-    "labWebsite": "http://www.f.waseda.jp/katsuf/lab/index_en.htm",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_katsufuji01.jpg",
-    "profName": "Takuro Katsufuji",
-    "profPosition": "Professor",
-    "researchAreas": ["Complex Quantum Physics"]
-  },
-  "6": {
-    "labWebsite": "http://www.spxg-lab.phys.waseda.ac.jp",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_kataoka01.jpg",
-    "profName": "Jun Kataoka",
-    "profPosition": "Professor",
-    "researchAreas": ["Applied Radiation Physics"]
-  },
-  "7": {
-    "labWebsite": "http://www.f.waseda.jp/tkita/",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_kita01.jpg",
-    "profName": "Tomohiro Kita",
-    "profPosition": "Associate Professor",
-    "researchAreas": ["Integrated Optical Devices"]
-  },
-  "8": {
-    "labWebsite": "http://researchers.waseda.jp/profile/ja.927b2a18a44f4b53a9b7bc21190e12d2.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_koike01.jpg",
-    "profName": "Shigeaki Koike",
-    "profPosition": "Professor",
-    "researchAreas": ["Mathematical Physics"]
-  },
-  "9": {
-    "labWebsite": "http://www.gravity.phys.waseda.ac.jp/index_e.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_maeda01.jpg",
-    "profName": "Kei-ichi Maeda",
-    "profPosition": "Professor",
-    "researchAreas": ["Relativistic Astrophysics and Cosmology"]
-  },
-  "10": {
-    "labWebsite": "http://www.ltlab.phys.waseda.ac.jp",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_matsuda01.jpg",
-    "profName": "Azusa Matsuda",
-    "profPosition": "Professor",
-    "researchAreas": ["Experimental Low Temperature Condensed Matter Physics"]
-  },
-  "11": {
-    "labWebsite": "http://www.icsep.sci.waseda.ac.jp/faculty/faculty-sergey.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_mikhailenko01.jpg",
-    "profName": "Sergey V. Mikhailenko",
-    "profPosition": "Associate Professor",
-    "researchAreas": ["Experimental Biophysics"]
-  },
-  "12": {
-    "labWebsite": "http://www.f.waseda.jp/mizokawa/index_e.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_mizokawa01.jpg",
-    "profName": "Takashi Mizokawa",
-    "profPosition": "Professor",
-    "researchAreas": ["Electronic Correlation Physics"]
-  },
-  "13": {
-    "labWebsite": "http://www.f.waseda.jp/masa_mochizuki/index.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_mochizuki01.jpg",
-    "profName": "Masahiro Mochizuki",
-    "profPosition": "Professor",
-    "researchAreas": ["Emergent Materials Physics"]
-  },
-  "14": {
-    "labWebsite": "http://www.mlab.phys.waseda.ac.jp",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_morishima01.jpg",
-    "profName": "Shigeo Morishima",
-    "profPosition": "Professor",
-    "researchAreas": ["Image Information Processing"]
-  },
-  "15": {
-    "labWebsite": "http://www.icsep.sci.waseda.ac.jp/faculty/holger.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_martin01.jpg",
-    "profName": "Holger Martin Motz",
-    "profPosition": "Professor",
-    "researchAreas": ["Astroparticle Physics"]
-  },
-  "16": {
-    "labWebsite": "http://www.hep.phys.waseda.ac.jp/index-j.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_nakazato01.jpg",
-    "profName": "Hiromichi Nakazato",
-    "profPosition": "Professor",
-    "researchAreas": ["Fundamental Theory of Quantum Mechanics"]
-  },
-  "17": {
-    "labWebsite": "http://www.f.waseda.jp/niikura/en/indexE.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_niikura01.jpg",
-    "profName": "Hiromichi Niikura ",
-    "profPosition": "Professor",
-    "researchAreas": ["Atomic, Molecular and Optical Physics"]
-  },
-  "18": {
-    "labWebsite": "http://www.ozawa.phys.waseda.ac.jp/index.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_ozawa01.jpg",
-    "profName": "Tohru Ozawa",
-    "profPosition": "Professor",
-    "researchAreas": ["Mathematical Physics"]
-  },
-  "19": {
-    "labWebsite": "http://www.sawada.phys.waseda.ac.jp",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_sawada01.jpg",
-    "profName": "Hideyuki Sawada",
-    "profPosition": "Professor",
-    "researchAreas": [
-      "Fundamentals and Applications of Pattern Information Processing"
-    ]
-  },
-  "20": {
-    "labWebsite": "http://www.f.waseda.jp/tabe/index-e.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_tabe01.jpg",
-    "profName": "Yuka Tabe",
-    "profPosition": "Professor",
-    "researchAreas": ["Soft Matter Physics"]
-  },
-  "21": {
-    "labWebsite": "http://www.np.phys.waseda.ac.jp/eng.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_takano01.jpg",
-    "profName": "Masatoshi Takano",
-    "profPosition": "Professor",
-    "researchAreas": ["Theoretical Nuclear Physics"]
-  },
-  "22": {
-    "labWebsite": "http://www.tb.phys.waseda.ac.jp",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_takano02.jpg",
-    "profName": "Mitsunori Takano",
-    "profPosition": "Professor",
-    "researchAreas": ["Computational Biophysics"]
-  },
-  "23": {
-    "labWebsite": "http://researchers.waseda.jp/profile/ja.1a0c2b2f500acfc68d7cf7a9b6fce5c5.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_takayama01.jpg",
-    "profName": "Akari Takayama",
-    "profPosition": "Associate Professor",
-    "researchAreas": ["Surface Science"]
-  },
-  "24": {
-    "labWebsite": "http://www.f.waseda.jp/atacke/",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_takeuchi01.jpg",
-    "profName": "Atsushi Takeuchi",
-    "profPosition": "Professor",
-    "researchAreas": ["Semiconductor Device Engineering"]
-  },
-  "25": {
-    "labWebsite": "http://researchers.waseda.jp/profile/ja.dc7e1e8c4e40bc73a8e1262cbf3bb339.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_tanaka01.jpg",
-    "profName": "Masashi Tanaka",
-    "profPosition": "Associate Professor",
-    "researchAreas": ["Experimental particle physics, Dark matter"]
-  },
-  "26": {
-    "labWebsite": "http://www.f.waseda.jp/tsujikawa/template/index-e.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_tsujikawa01.jpg",
-    "profName": "Shinji Tsujikawa",
-    "profPosition": "Professor",
-    "researchAreas": ["Cosmology and Theoretical Astrophysics"]
-  },
-  "27": {
-    "labWebsite": "http://www.qp.phys.waseda.ac.jp/index_en.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_uyeda01.jpg",
-    "profName": "Taro Uyeda",
-    "profPosition": "Professor",
-    "researchAreas": ["Molecular Biophysics"]
-  },
-  "28": {
-    "labWebsite": "http://www.f.waseda.jp/washiom/top.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_washio01.jpg",
-    "profName": "Masakazu Washio",
-    "profPosition": "Professor",
-    "researchAreas": ["High Quality Beam Science"]
-  },
-  "29": {
-    "labWebsite": "http://www.heap.phys.waseda.ac.jp/english/index-e.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_yamada01.jpg",
-    "profName": "Shoichi Yamada",
-    "profPosition": "Professor",
-    "researchAreas": ["Theoretical Astrophysics"]
-  },
-  "30": {
-    "labWebsite": "http://www.y2003.phys.waseda.ac.jp/cgi-bin/fswiki/wiki.cgi",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_yamazaki01.jpg",
-    "profName": "Yoshihiro Yamazaki",
-    "profPosition": "Professor",
-    "researchAreas": ["Physics of Non-equilibrium Systems"]
-  },
-  "31": {
-    "labWebsite": "https://researchers.waseda.jp/profile/ja.f930b4a3562be2ae2c2928477c1106f0.html",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_yasuda01.jpg",
-    "profName": "Kenji Yasuda",
-    "profPosition": "Professor",
-    "researchAreas": ["Experimental Biophysics"]
-  },
-  "32": {
-    "labWebsite": "http://www2.kylab.sci.waseda.ac.jp",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_yorita01.jpg",
-    "profName": "Kohei Yorita",
-    "profPosition": "Professor",
-    "researchAreas": ["High Energy Experimental Particle Physics"]
-  },
-  "33": {
-    "labWebsite": "http://www.f.waseda.jp/yuasa/",
-    "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_yuasa01.jpg",
-    "profName": "Kazuya Yuasa",
-    "profPosition": "Professor",
-    "researchAreas": ["Theoretical Quantum Physics"]
-  }
+    "0": {
+        "comments": [],
+        "index": "0",
+        "labWebsite": "http://www.hep.phys.waseda.ac.jp/index-j.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_abe01.jpg",
+        "profName": "Hiroyuki Abe",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Theoretical Particle Physics"
+        ]
+    },
+    "1": {
+        "comments": [],
+        "index": "1",
+        "labWebsite": "http://www.qo.phys.waseda.ac.jp/index_en.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_aoki01.jpg",
+        "profName": "Takao Aoki",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Quantum Optics Research"
+        ]
+    },
+    "10": {
+        "comments": [],
+        "index": "10",
+        "labWebsite": "http://www.ltlab.phys.waseda.ac.jp",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_matsuda01.jpg",
+        "profName": "Azusa Matsuda",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Experimental Low Temperature Condensed Matter Physics"
+        ]
+    },
+    "11": {
+        "comments": [],
+        "index": "11",
+        "labWebsite": "http://www.icsep.sci.waseda.ac.jp/faculty/faculty-sergey.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_mikhailenko01.jpg",
+        "profName": "Sergey V. Mikhailenko",
+        "profPosition": "Associate Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Experimental Biophysics"
+        ]
+    },
+    "12": {
+        "comments": [],
+        "index": "12",
+        "labWebsite": "http://www.f.waseda.jp/mizokawa/index_e.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_mizokawa01.jpg",
+        "profName": "Takashi Mizokawa",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Electronic Correlation Physics"
+        ]
+    },
+    "13": {
+        "comments": [],
+        "index": "13",
+        "labWebsite": "http://www.f.waseda.jp/masa_mochizuki/index.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_mochizuki01.jpg",
+        "profName": "Masahiro Mochizuki",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Emergent Materials Physics"
+        ]
+    },
+    "14": {
+        "comments": [],
+        "index": "14",
+        "labWebsite": "http://www.mlab.phys.waseda.ac.jp",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_morishima01.jpg",
+        "profName": "Shigeo Morishima",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Image Information Processing"
+        ]
+    },
+    "15": {
+        "comments": [],
+        "index": "15",
+        "labWebsite": "http://www.icsep.sci.waseda.ac.jp/faculty/holger.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_martin01.jpg",
+        "profName": "Holger Martin Motz",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Astroparticle Physics"
+        ]
+    },
+    "16": {
+        "comments": [],
+        "index": "16",
+        "labWebsite": "http://www.hep.phys.waseda.ac.jp/index-j.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_nakazato01.jpg",
+        "profName": "Hiromichi Nakazato",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Fundamental Theory of Quantum Mechanics"
+        ]
+    },
+    "17": {
+        "comments": [],
+        "index": "17",
+        "labWebsite": "http://www.f.waseda.jp/niikura/en/indexE.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_niikura01.jpg",
+        "profName": "Hiromichi Niikura ",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Atomic, Molecular and Optical Physics"
+        ]
+    },
+    "18": {
+        "comments": [],
+        "index": "18",
+        "labWebsite": "http://www.ozawa.phys.waseda.ac.jp/index.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_ozawa01.jpg",
+        "profName": "Tohru Ozawa",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Mathematical Physics"
+        ]
+    },
+    "19": {
+        "comments": [],
+        "index": "19",
+        "labWebsite": "http://www.sawada.phys.waseda.ac.jp",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_sawada01.jpg",
+        "profName": "Hideyuki Sawada",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Fundamentals and Applications of Pattern Information Processing"
+        ]
+    },
+    "2": {
+        "comments": [],
+        "index": "2",
+        "labWebsite": "http://researchers.waseda.jp/profile/en.032ec3da195b88b999aab4887f37d604.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_harayama01.jpg",
+        "profName": "Takahisa Harayama",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Nonlinear Physics"
+        ]
+    },
+    "20": {
+        "comments": [],
+        "index": "20",
+        "labWebsite": "http://www.f.waseda.jp/tabe/index-e.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_tabe01.jpg",
+        "profName": "Yuka Tabe",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Soft Matter Physics"
+        ]
+    },
+    "21": {
+        "comments": [],
+        "index": "21",
+        "labWebsite": "http://www.np.phys.waseda.ac.jp/eng.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_takano01.jpg",
+        "profName": "Masatoshi Takano",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Theoretical Nuclear Physics"
+        ]
+    },
+    "22": {
+        "comments": [],
+        "index": "22",
+        "labWebsite": "http://www.tb.phys.waseda.ac.jp",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_takano02.jpg",
+        "profName": "Mitsunori Takano",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Computational Biophysics"
+        ]
+    },
+    "23": {
+        "comments": [],
+        "index": "23",
+        "labWebsite": "http://researchers.waseda.jp/profile/ja.1a0c2b2f500acfc68d7cf7a9b6fce5c5.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_takayama01.jpg",
+        "profName": "Akari Takayama",
+        "profPosition": "Associate Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Surface Science"
+        ]
+    },
+    "24": {
+        "comments": [],
+        "index": "24",
+        "labWebsite": "http://www.f.waseda.jp/atacke/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_takeuchi01.jpg",
+        "profName": "Atsushi Takeuchi",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Semiconductor Device Engineering"
+        ]
+    },
+    "25": {
+        "comments": [],
+        "index": "25",
+        "labWebsite": "http://researchers.waseda.jp/profile/ja.dc7e1e8c4e40bc73a8e1262cbf3bb339.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_tanaka01.jpg",
+        "profName": "Masashi Tanaka",
+        "profPosition": "Associate Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Experimental particle physics, Dark matter"
+        ]
+    },
+    "26": {
+        "comments": [],
+        "index": "26",
+        "labWebsite": "http://www.f.waseda.jp/tsujikawa/template/index-e.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_tsujikawa01.jpg",
+        "profName": "Shinji Tsujikawa",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Cosmology and Theoretical Astrophysics"
+        ]
+    },
+    "27": {
+        "comments": [],
+        "index": "27",
+        "labWebsite": "http://www.qp.phys.waseda.ac.jp/index_en.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_uyeda01.jpg",
+        "profName": "Taro Uyeda",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Molecular Biophysics"
+        ]
+    },
+    "28": {
+        "comments": [],
+        "index": "28",
+        "labWebsite": "http://www.f.waseda.jp/washiom/top.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_washio01.jpg",
+        "profName": "Masakazu Washio",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "High Quality Beam Science"
+        ]
+    },
+    "29": {
+        "comments": [],
+        "index": "29",
+        "labWebsite": "http://www.heap.phys.waseda.ac.jp/english/index-e.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_yamada01.jpg",
+        "profName": "Shoichi Yamada",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Theoretical Astrophysics"
+        ]
+    },
+    "3": {
+        "comments": [],
+        "index": "3",
+        "labWebsite": "http://www.f.waseda.jp/thasega/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_hasegawa01.jpg",
+        "profName": "Tsuyoshi Hasegawa",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Integrated Optical Devices"
+        ]
+    },
+    "30": {
+        "comments": [],
+        "index": "30",
+        "labWebsite": "http://www.y2003.phys.waseda.ac.jp/cgi-bin/fswiki/wiki.cgi",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_yamazaki01.jpg",
+        "profName": "Yoshihiro Yamazaki",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Physics of Non-equilibrium Systems"
+        ]
+    },
+    "31": {
+        "comments": [],
+        "index": "31",
+        "labWebsite": "https://researchers.waseda.jp/profile/ja.f930b4a3562be2ae2c2928477c1106f0.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_yasuda01.jpg",
+        "profName": "Kenji Yasuda",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Experimental Biophysics"
+        ]
+    },
+    "32": {
+        "comments": [],
+        "index": "32",
+        "labWebsite": "http://www2.kylab.sci.waseda.ac.jp",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_yorita01.jpg",
+        "profName": "Kohei Yorita",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "High Energy Experimental Particle Physics"
+        ]
+    },
+    "33": {
+        "comments": [],
+        "index": "33",
+        "labWebsite": "http://www.f.waseda.jp/yuasa/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_yuasa01.jpg",
+        "profName": "Kazuya Yuasa",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Theoretical Quantum Physics"
+        ]
+    },
+    "4": {
+        "comments": [],
+        "index": "4",
+        "labWebsite": "http://researchers.waseda.jp/profile/ja.7adb49b0eb9b8d3a4e24954c1858ba01.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_inoue01.jpg",
+        "profName": "Akio Inoue",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Observational Astrophysics"
+        ]
+    },
+    "5": {
+        "comments": [],
+        "index": "5",
+        "labWebsite": "http://www.f.waseda.jp/katsuf/lab/index_en.htm",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_katsufuji01.jpg",
+        "profName": "Takuro Katsufuji",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Complex Quantum Physics"
+        ]
+    },
+    "6": {
+        "comments": [],
+        "index": "6",
+        "labWebsite": "http://www.spxg-lab.phys.waseda.ac.jp",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_kataoka01.jpg",
+        "profName": "Jun Kataoka",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Applied Radiation Physics"
+        ]
+    },
+    "7": {
+        "comments": [],
+        "index": "7",
+        "labWebsite": "http://www.f.waseda.jp/tkita/",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_kita01.jpg",
+        "profName": "Tomohiro Kita",
+        "profPosition": "Associate Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Integrated Optical Devices"
+        ]
+    },
+    "8": {
+        "comments": [],
+        "index": "8",
+        "labWebsite": "http://researchers.waseda.jp/profile/ja.927b2a18a44f4b53a9b7bc21190e12d2.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_koike01.jpg",
+        "profName": "Shigeaki Koike",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Mathematical Physics"
+        ]
+    },
+    "9": {
+        "comments": [],
+        "index": "9",
+        "labWebsite": "http://www.gravity.phys.waseda.ac.jp/index_e.html",
+        "profImg": "https://www.ase.sci.waseda.ac.jp/english/departments/img/physics/img_maeda01.jpg",
+        "profName": "Kei-ichi Maeda",
+        "profPosition": "Professor",
+        "rating": 0,
+        "ratings": [],
+        "researchAreas": [
+            "Relativistic Astrophysics and Cosmology"
+        ]
+    }
 }

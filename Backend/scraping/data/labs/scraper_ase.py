@@ -44,12 +44,13 @@ def scraper_fse(url="https://www.ase.sci.waseda.ac.jp/english/departments/physic
         lab_infos[index]["researchAreas"]=[]
         lab_infos[index]["researchAreas"].append(research_field)
         index+=1 
-
+    
     script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
-    rel_path = "./Data/"+schoolName+'/'+f"{majorName}.json"
+    rel_path = "./"+schoolName+'/'+f"{majorName}.json"
     abs_file_path = os.path.join(script_dir, rel_path)        
     with open(abs_file_path, mode="w+") as file:
         json.dump(lab_infos, file, sort_keys=True, indent=4)
+    
 
 scraper_fse("https://www.ase.sci.waseda.ac.jp/english/departments/physics.php","ASE", "Physics")
 scraper_fse("https://www.ase.sci.waseda.ac.jp/english/departments/chemistry.php","ASE", "Chemistry")

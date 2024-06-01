@@ -1,11 +1,11 @@
-import { Module } from '@nestjs/common';
-import { AppController } from './app.controller';
-import { AppService } from './app.service';
-import { ConfigModule, ConfigService } from '@nestjs/config';
-import { FirebaseAdmin } from '../config/firebase.setup';
-import { UserModule } from './user/user.module';
+import { Module } from "@nestjs/common";
+import { AppController } from "./app.controller";
+import { AppService } from "./app.service";
+import { ConfigModule, ConfigService } from "@nestjs/config";
+import { FirebaseAdmin } from "../config/firebase.setup";
+import { UserModule } from "./user/user.module";
 // import { FirestoreModule } from './firestore/firestore.module';
-import { LabsModule } from './labs/labs.module';
+import { LabsModule } from "./labs/labs.module";
 
 @Module({
   imports: [

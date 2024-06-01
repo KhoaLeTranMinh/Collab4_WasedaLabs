@@ -1,5 +1,5 @@
 /* eslint-disable prettier/prettier */
-import { Controller, Post, Body } from "@nestjs/common";
+import { Controller, Post, Body, Get } from "@nestjs/common";
 import { UserService } from "./user.service";
 import { UserDto } from "./dto/user.dto";
 import { User } from "./entities/user";
@@ -19,5 +19,14 @@ export class UserController {
   @Post("/login")
   login(@Body() request: LoginRequest) {
     return this.userService.login(request);
+  }
+  @Get("currentuser")
+  getUser() {
+    return this.userService.getCurrentUser();
+  }
+
+  @Post("logout")
+  logOut() {
+    return this.userService.signOut();
   }
 }

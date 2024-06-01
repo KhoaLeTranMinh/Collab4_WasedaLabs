@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 "use client"
 // import type { NextPage } from "next"
-import { useCallback } from "react"
+import { use, useCallback, useContext } from "react"
 import { TextField, InputAdornment, Icon, IconButton } from "@mui/material"
 import Input from "@/app/ui/components/inputComponent"
 import React from "react"
@@ -11,7 +11,8 @@ import Link from "next/link"
 import SimpleButton from "./ui/components/simpleButton"
 import axios from "axios"
 import { useRouter } from "next/navigation"
-import { log } from "console"
+import { useLogin } from "./utility/logInContextProvider"
+
 const Page = () => {
 	const [state, setState] = React.useState({
 		email: "",
@@ -19,6 +20,7 @@ const Page = () => {
 		error: false,
 	})
 	const { email, error, password } = state
+	let { loggedIn, setLoggedIn, user, setUser } = useLogin()
 	const router = useRouter()
 	const handleChange = React.useCallback(({ target: { name, value } }) => {
 		setState((prevState) => ({
@@ -27,10 +29,10 @@ const Page = () => {
 		}))
 	}, [])
 
-	const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+	const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
 		e.preventDefault()
 
-		axios({
+		await axios({
 			method: "POST",
 			url: "http://localhost:3000/user/login",
 			data: {
@@ -40,10 +42,17 @@ const Page = () => {
 		})
 			.then((response) => {
 				console.log(response)
+				console.log("user has logged in")
+				setLoggedIn(true)
+				setUser(response.data)
+				console.log(user)
+
 				router.push("/ui/inner/school")
 			})
 			.catch((error) => {
 				console.log(error.response)
+				setLoggedIn(false)
+				setUser(null)
 				setState((prevState) => ({
 					...prevState,
 					error: true,
