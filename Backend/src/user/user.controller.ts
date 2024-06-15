@@ -12,15 +12,15 @@ export type LoginRequest = {
 export class UserController {
   constructor(private readonly userService: UserService) {}
 
-  @Post("/signup")
+  @Post("signup")
   signup(@Body() userRequest: User) {
     return this.userService.createUser(userRequest);
   }
-  @Post("/login")
+  @Post("login")
   login(@Body() request: LoginRequest) {
     return this.userService.login(request);
   }
-  @Get("currentuser")
+  @Get("profile")
   getUser() {
     return this.userService.getCurrentUser();
   }

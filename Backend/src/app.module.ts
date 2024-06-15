@@ -6,6 +6,7 @@ import { FirebaseAdmin } from "../config/firebase.setup";
 import { UserModule } from "./user/user.module";
 // import { FirestoreModule } from './firestore/firestore.module';
 import { LabsModule } from "./labs/labs.module";
+import { SeminarsModule } from './seminars/seminars.module';
 
 @Module({
   imports: [
@@ -22,6 +23,7 @@ import { LabsModule } from "./labs/labs.module";
     // }),
     UserModule,
     LabsModule,
+    SeminarsModule,
   ],
   controllers: [AppController],
   providers: [AppService, FirebaseAdmin],

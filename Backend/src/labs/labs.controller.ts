@@ -28,7 +28,7 @@ export class LabsController {
   async find(
     @Param("school") school: string,
     @Param("major") major: string,
-  ): Promise<CreateLabDto[]> {
+  ): Promise<CreateLabDto[]> {  
     try {
       const labs = await this.labsService.findOnMajorAndSchool(school, major);
       return labs;
