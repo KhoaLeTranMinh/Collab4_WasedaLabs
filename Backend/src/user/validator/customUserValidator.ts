@@ -11,6 +11,9 @@ export enum Schools {
   FSE = "Fundamental Science and Engineering",
   ASE = "Advanced Science and Engineering",
   CSE = "Creative Science and Engineering",
+  SILS = "School of International Liberal Studies",
+  PSE = "School of Political Science and Economics",
+  SSS = "School of Social Sciences",
 }
 export enum Majors {
   MS = "Mathematical Sciences",

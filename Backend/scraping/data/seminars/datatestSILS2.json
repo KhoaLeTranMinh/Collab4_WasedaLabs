@@ -9,7 +9,11 @@
         "Day, Period": "Mon.5",
         "Classroom": "11-605",
         "Course Description": "This seminar is for those students who wish to study the grammatical and l......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "0",
+        "rating": 0,
+        "ratings": []
     },
     "1": {
         "Year": 2024,
@@ -21,7 +25,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "11-906",
         "Course Description": "Face-to-Face This three-semester-long seminar provides an approachable int......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "1",
+        "rating": 0,
+        "ratings": []
     },
     "2": {
         "Year": 2024,
@@ -33,7 +41,11 @@
         "Day, Period": "Wed.5",
         "Classroom": "11-911",
         "Course Description": "Mode of Delivery: Face-to-Face This advanced seminar will examine various......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "2",
+        "rating": 0,
+        "ratings": []
     },
     "3": {
         "Year": 2024,
@@ -45,7 +57,11 @@
         "Day, Period": "Tues.2",
         "Classroom": "11-816",
         "Course Description": "The main focus of this course is to learn howto plan and conduct linguisti......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "3",
+        "rating": 0,
+        "ratings": []
     },
     "4": {
         "Year": 2024,
@@ -57,7 +73,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "11-803",
         "Course Description": "This course is designed to prepare and assist students in conducting resea......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "4",
+        "rating": 0,
+        "ratings": []
     },
     "5": {
         "Year": 2024,
@@ -69,7 +89,11 @@
         "Day, Period": "Tues.2",
         "Classroom": "11-811",
         "Course Description": "In this seminar, students will explore ways in which linguistic theory and......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "5",
+        "rating": 0,
+        "ratings": []
     },
     "6": {
         "Year": 2024,
@@ -81,7 +105,11 @@
         "Day, Period": "Thur.2",
         "Classroom": "11-610",
         "Course Description": "This course will immerse students with the critical elements of interpreti......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "6",
+        "rating": 0,
+        "ratings": []
     },
     "7": {
         "Year": 2024,
@@ -93,7 +121,11 @@
         "Day, Period": "Fri.4",
         "Classroom": "11-912",
         "Course Description": "This course is designed to help students to understand the United States f......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "7",
+        "rating": 0,
+        "ratings": []
     },
     "8": {
         "Year": 2024,
@@ -105,7 +137,11 @@
         "Day, Period": "Tues.5",
         "Classroom": "11-502",
         "Course Description": "This semester will continue our discussion of the subject of Anthropology ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "8",
+        "rating": 0,
+        "ratings": []
     },
     "9": {
         "Year": 2024,
@@ -117,7 +153,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "11-808",
         "Course Description": "Full Face-to-FaceThis advanced seminar is designed to introduce senior stu......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "9",
+        "rating": 0,
+        "ratings": []
     },
     "10": {
         "Year": 2024,
@@ -129,7 +169,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "11-813",
         "Course Description": "This seminar examines major issue of diasporas and migrants in Asia. Theo......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "10",
+        "rating": 0,
+        "ratings": []
     },
     "11": {
         "Year": 2024,
@@ -141,7 +185,11 @@
         "Day, Period": "Tues.2",
         "Classroom": "11-915",
         "Course Description": "F2F + Remote *This class will be taught as a hybrid and hi-flex class. The......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "11",
+        "rating": 0,
+        "ratings": []
     },
     "12": {
         "Year": 2024,
@@ -153,7 +201,11 @@
         "Day, Period": "Tues.5",
         "Classroom": "11-711",
         "Course Description": "The purpose of this seminar is to study the economies in East Asia includi......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "12",
+        "rating": 0,
+        "ratings": []
     },
     "13": {
         "Year": 2024,
@@ -165,7 +217,11 @@
         "Day, Period": "Fri.5",
         "Classroom": "7-309",
         "Course Description": "This advanced seminar reads and discusses the theory and policy of economi......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "13",
+        "rating": 0,
+        "ratings": []
     },
     "14": {
         "Year": 2024,
@@ -177,7 +233,11 @@
         "Day, Period": "Wed.5",
         "Classroom": "11-606",
         "Course Description": "In the second semester of our Creative Industries zemi series we will expl......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "14",
+        "rating": 0,
+        "ratings": []
     },
     "15": {
         "Year": 2024,
@@ -189,7 +249,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "11-914",
         "Course Description": "Many courses offered in marketing focus on methods for developing persuasi......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "15",
+        "rating": 0,
+        "ratings": []
     },
     "16": {
         "Year": 2024,
@@ -201,7 +265,11 @@
         "Day, Period": "Mon.2",
         "Classroom": "11-808",
         "Course Description": "The objective of this advanced seminar series is to study topics on empiri......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "16",
+        "rating": 0,
+        "ratings": []
     },
     "17": {
         "Year": 2024,
@@ -213,7 +281,11 @@
         "Day, Period": "Fri.5",
         "Classroom": "11-812",
         "Course Description": "The term 'New Hollywood Cinema' denotes films crafted by filmmakers of the......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "17",
+        "rating": 0,
+        "ratings": []
     },
     "18": {
         "Year": 2024,
@@ -225,7 +297,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "11-811",
         "Course Description": "In the age of \u201cmedia convergence,\u201d where content flows across multiple med......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "18",
+        "rating": 0,
+        "ratings": []
     },
     "19": {
         "Year": 2024,
@@ -237,7 +313,11 @@
         "Day, Period": "Tues.5",
         "Classroom": "11-812",
         "Course Description": "In Person There are many different ways of studying literary texts, but in......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "19",
+        "rating": 0,
+        "ratings": []
     },
     "20": {
         "Year": 2024,
@@ -249,7 +329,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "11-820",
         "Course Description": "This advanced creative writing/translation/literature seminar will be org......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "20",
+        "rating": 0,
+        "ratings": []
     },
     "21": {
         "Year": 2024,
@@ -261,7 +345,11 @@
         "Day, Period": "Wed.6",
         "Classroom": "11-503",
         "Course Description": "This advanced seminar provides students who are interested in postcolonial......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "21",
+        "rating": 0,
+        "ratings": []
     },
     "22": {
         "Year": 2024,
@@ -273,7 +361,11 @@
         "Day, Period": "Wed.2",
         "Classroom": "11-802",
         "Course Description": "This upper-level seminar is geared towards students in the process of writ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "22",
+        "rating": 0,
+        "ratings": []
     },
     "23": {
         "Year": 2024,
@@ -285,7 +377,11 @@
         "Day, Period": "Tues.3",
         "Classroom": "11-804",
         "Course Description": "* This class will be conducted in the classroom FACE-TO-FACE. The format ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "23",
+        "rating": 0,
+        "ratings": []
     },
     "24": {
         "Year": 2024,
@@ -297,7 +393,11 @@
         "Day, Period": "Tues.2",
         "Classroom": "11-610",
         "Course Description": "\u2022\tThe course is based on weekly seminars and will provide an overall under......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "24",
+        "rating": 0,
+        "ratings": []
     },
     "25": {
         "Year": 2024,
@@ -309,7 +409,11 @@
         "Day, Period": "Thur.2",
         "Classroom": "11-705",
         "Course Description": "The method of course delivery will be Face-to-Face (F2F) (*Please note tha......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "25",
+        "rating": 0,
+        "ratings": []
     },
     "26": {
         "Year": 2024,
@@ -321,7 +425,11 @@
         "Day, Period": "Sat.4",
         "Classroom": "11-816",
         "Course Description": "This seminar is intended to critically review Amartya Sen's capability app......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "26",
+        "rating": 0,
+        "ratings": []
     },
     "27": {
         "Year": 2024,
@@ -333,7 +441,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "11-910",
         "Course Description": "Recent historical studies show a different outlook from what we have seen ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "27",
+        "rating": 0,
+        "ratings": []
     },
     "28": {
         "Year": 2024,
@@ -345,7 +457,11 @@
         "Day, Period": "Tues.5",
         "Classroom": "11-702",
         "Course Description": "This seminar is designed to encourage students to think systematically abo......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "28",
+        "rating": 0,
+        "ratings": []
     },
     "29": {
         "Year": 2024,
@@ -357,7 +473,11 @@
         "Day, Period": "Fri.3",
         "Classroom": "11-813",
         "Course Description": "\u203bFace-to-Face delivery For many critical thinkers such as Silke Helfrich, ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "29",
+        "rating": 0,
+        "ratings": []
     },
     "30": {
         "Year": 2024,
@@ -369,7 +489,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "11-606",
         "Course Description": "Face-to-Face (F2F) Effective negotiation skills are essential to the achie......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "30",
+        "rating": 0,
+        "ratings": []
     },
     "31": {
         "Year": 2024,
@@ -381,7 +505,11 @@
         "Day, Period": "Thur.1",
         "Classroom": "11-807",
         "Course Description": "In this seminar, we consider a way of looking at the world order through g......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "31",
+        "rating": 0,
+        "ratings": []
     },
     "32": {
         "Year": 2024,
@@ -393,7 +521,11 @@
         "Day, Period": "Mon.5",
         "Classroom": "11-814",
         "Course Description": "The purpose of this seminar is to study the challenges that the Japanese e......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "32",
+        "rating": 0,
+        "ratings": []
     },
     "33": {
         "Year": 2024,
@@ -405,7 +537,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "11-813",
         "Course Description": "This seminar will examine the status of minorities in Japanese society, in......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "33",
+        "rating": 0,
+        "ratings": []
     },
     "34": {
         "Year": 2024,
@@ -417,7 +553,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "11-814",
         "Course Description": "{Course Delivery Method] Face to Face In this seminar, students are invite......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "34",
+        "rating": 0,
+        "ratings": []
     },
     "35": {
         "Year": 2024,
@@ -429,7 +569,11 @@
         "Day, Period": "Thur.2",
         "Classroom": "11-811",
         "Course Description": "Mode of Delivery: Face-to-Face(F2F) In this seminar, we read several texts......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "35",
+        "rating": 0,
+        "ratings": []
     },
     "36": {
         "Year": 2024,
@@ -441,7 +585,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "11-805",
         "Course Description": "This seminar course is for those students who wish to improve their abilit......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "36",
+        "rating": 0,
+        "ratings": []
     },
     "37": {
         "Year": 2024,
@@ -453,7 +601,11 @@
         "Day, Period": "Mon.3",
         "Classroom": "11-806",
         "Course Description": "The term \"coloniality\"suggests how the violence and domination of colonial......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "37",
+        "rating": 0,
+        "ratings": []
     },
     "38": {
         "Year": 2024,
@@ -465,7 +617,11 @@
         "Day, Period": "Mon.3",
         "Classroom": "11-610",
         "Course Description": "The class will introduce students to the basic elements of interpreting wh......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "38",
+        "rating": 0,
+        "ratings": []
     },
     "39": {
         "Year": 2024,
@@ -477,7 +633,11 @@
         "Day, Period": "Mon.4",
         "Classroom": "11-806",
         "Course Description": "The term \"coloniality\"suggests how the violence and domination of colonial......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "39",
+        "rating": 0,
+        "ratings": []
     },
     "40": {
         "Year": 2024,
@@ -489,7 +649,11 @@
         "Day, Period": "Tues.4",
         "Classroom": "11-711",
         "Course Description": "In this seminar, we will investigate human language, thinking about what l......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "40",
+        "rating": 0,
+        "ratings": []
     },
     "41": {
         "Year": 2024,
@@ -501,7 +665,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "11-809",
         "Course Description": "What does it mean to be\u201cin\u201d public or for an issue to be an issue of \u201cpubl......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "41",
+        "rating": 0,
+        "ratings": []
     },
     "42": {
         "Year": 2024,
@@ -513,7 +681,11 @@
         "Day, Period": "Tues.3",
         "Classroom": "11-608",
         "Course Description": "This course ventures into essential questions about the role of music acro......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "42",
+        "rating": 0,
+        "ratings": []
     },
     "43": {
         "Year": 2024,
@@ -525,7 +697,11 @@
         "Day, Period": "Thur.2",
         "Classroom": "7-202",
         "Course Description": "In this course, students will develop skillsrequired to do group-based sci......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "43",
+        "rating": 0,
+        "ratings": []
     },
     "44": {
         "Year": 2024,
@@ -537,7 +713,11 @@
         "Day, Period": "Tues.4",
         "Classroom": "10-405",
         "Course Description": "\u203bFace-to-Face This seminar will be centered around a series of Python co......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "44",
+        "rating": 0,
+        "ratings": []
     },
     "45": {
         "Year": 2024,
@@ -549,7 +729,11 @@
         "Day, Period": "Mon.3",
         "Classroom": "11-814",
         "Course Description": "This course is designed to be part I of a two-part course in conjunction w......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "45",
+        "rating": 0,
+        "ratings": []
     },
     "46": {
         "Year": 2024,
@@ -561,7 +745,11 @@
         "Day, Period": "Fri.3",
         "Classroom": "11-606",
         "Course Description": "This seminar is an introductory seminar on International Relations. We wil......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "46",
+        "rating": 0,
+        "ratings": []
     },
     "47": {
         "Year": 2024,
@@ -573,7 +761,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "11-815",
         "Course Description": "In this introductory seminar students will be asked to read literary works......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "47",
+        "rating": 0,
+        "ratings": []
     },
     "48": {
         "Year": 2024,
@@ -585,7 +777,11 @@
         "Day, Period": "Wed.5",
         "Classroom": "undecided",
         "Course Description": "Undertaking research in second language teaching and learning requires a b......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "48",
+        "rating": 0,
+        "ratings": []
     },
     "49": {
         "Year": 2024,
@@ -597,7 +793,11 @@
         "Day, Period": "Mon.4",
         "Classroom": "11-812",
         "Course Description": "The method of course delivery will be Face-to-Face (F2F) (*Please note tha......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "49",
+        "rating": 0,
+        "ratings": []
     },
     "50": {
         "Year": 2024,
@@ -609,7 +809,11 @@
         "Day, Period": "Mon.5",
         "Classroom": "undecided",
         "Course Description": "Undertaking research in second language teaching and learning requires a b......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "50",
+        "rating": 0,
+        "ratings": []
     },
     "51": {
         "Year": 2024,
@@ -621,7 +825,11 @@
         "Day, Period": "Tues.3",
         "Classroom": "11-820",
         "Course Description": "This first year seminar is designed to encourage students to think systema......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "51",
+        "rating": 0,
+        "ratings": []
     },
     "52": {
         "Year": 2024,
@@ -633,7 +841,11 @@
         "Day, Period": "Wed.5",
         "Classroom": "11-909",
         "Course Description": "International order is one of the most important-- and the most contested-......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "52",
+        "rating": 0,
+        "ratings": []
     },
     "53": {
         "Year": 2024,
@@ -645,7 +857,11 @@
         "Day, Period": "Mon.3",
         "Classroom": "11-906",
         "Course Description": "In this course, we will explore some of the historical contexts of Greek m......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "53",
+        "rating": 0,
+        "ratings": []
     },
     "54": {
         "Year": 2024,
@@ -657,7 +873,11 @@
         "Day, Period": "Fri.4",
         "Classroom": "11-820",
         "Course Description": "\u3010Course Delivery Method\u3011 More than half the sessions will be held in-pe......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "54",
+        "rating": 0,
+        "ratings": []
     },
     "55": {
         "Year": 2024,
@@ -669,7 +889,11 @@
         "Day, Period": "Tues.3",
         "Classroom": "11-801",
         "Course Description": "[IN-PERSON COURSE] Nothing better illustrates American irony than the exis......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "55",
+        "rating": 0,
+        "ratings": []
     },
     "56": {
         "Year": 2024,
@@ -681,7 +905,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "11-915",
         "Course Description": "Anime movies and TV series are entertaining and fun to watch. But does thi......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "56",
+        "rating": 0,
+        "ratings": []
     },
     "57": {
         "Year": 2024,
@@ -693,7 +921,11 @@
         "Day, Period": "Tues.2",
         "Classroom": "11-801",
         "Course Description": "[IN-PERSON COURSE] This course aims at examining how the nation based on t......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "57",
+        "rating": 0,
+        "ratings": []
     },
     "58": {
         "Year": 2024,
@@ -705,7 +937,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "7-305",
         "Course Description": "This introductory seminar course discusses the current status of English a......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "58",
+        "rating": 0,
+        "ratings": []
     },
     "59": {
         "Year": 2024,
@@ -717,7 +953,11 @@
         "Day, Period": "Tues.4",
         "Classroom": "11-806",
         "Course Description": "Course Delivery Method: Face to Face This course is designed to introduce......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "59",
+        "rating": 0,
+        "ratings": []
     },
     "60": {
         "Year": 2024,
@@ -729,7 +969,11 @@
         "Day, Period": "Tues.3",
         "Classroom": "11-815",
         "Course Description": "Face to Facre All children have the same rights. In reality, however, ther......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "60",
+        "rating": 0,
+        "ratings": []
     },
     "61": {
         "Year": 2024,
@@ -741,7 +985,11 @@
         "Day, Period": "Tues.2",
         "Classroom": "11-808",
         "Course Description": "Face to Facre All children have the same rights. In reality, however, ther......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "61",
+        "rating": 0,
+        "ratings": []
     },
     "62": {
         "Year": 2024,
@@ -753,7 +1001,11 @@
         "Day, Period": "Thur.2",
         "Classroom": "10-403",
         "Course Description": "\u3010Course Delivery Method\u3011 Face-to-Face Japanese culture has been influenc......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "62",
+        "rating": 0,
+        "ratings": []
     },
     "63": {
         "Year": 2024,
@@ -765,7 +1017,11 @@
         "Day, Period": "Tues.4",
         "Classroom": "11-508",
         "Course Description": "Shinto' \u795e\u9053 refers to symbolic, aesthetic, religious and ritual practices......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "63",
+        "rating": 0,
+        "ratings": []
     },
     "64": {
         "Year": 2024,
@@ -777,7 +1033,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "11-914",
         "Course Description": "\u00b7 This course will explore cross-cultural and historical issues related......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "64",
+        "rating": 0,
+        "ratings": []
     },
     "65": {
         "Year": 2024,
@@ -789,7 +1049,11 @@
         "Day, Period": "Mon.3",
         "Classroom": "11-807",
         "Course Description": "Face-to-Face This course\u2019s main aim is to develop fundamental English skil......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "65",
+        "rating": 0,
+        "ratings": []
     },
     "66": {
         "Year": 2024,
@@ -801,7 +1065,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "11-802",
         "Course Description": "This seminar course is for those students who wish to improve their abilit......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "66",
+        "rating": 0,
+        "ratings": []
     },
     "67": {
         "Year": 2024,
@@ -813,7 +1081,11 @@
         "Day, Period": "Mon.3",
         "Classroom": "11-815",
         "Course Description": "This seminar is designed for students who are interested in teaching a sec......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "67",
+        "rating": 0,
+        "ratings": []
     },
     "68": {
         "Year": 2024,
@@ -825,7 +1097,11 @@
         "Day, Period": "Mon.4",
         "Classroom": "11-814",
         "Course Description": "This course is designed to be part I of a two-part course in conjunction w......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "68",
+        "rating": 0,
+        "ratings": []
     },
     "69": {
         "Year": 2024,
@@ -837,7 +1113,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "undecided",
         "Course Description": "Technology has had an enormous influence on our lives in the ways in which......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "69",
+        "rating": 0,
+        "ratings": []
     },
     "70": {
         "Year": 2024,
@@ -849,7 +1129,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "11-711",
         "Course Description": "This class will help students read and understand written material in orde......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "70",
+        "rating": 0,
+        "ratings": []
     },
     "71": {
         "Year": 2024,
@@ -861,7 +1145,11 @@
         "Day, Period": "Fri.3",
         "Classroom": "11-804",
         "Course Description": "[IN-PERSON COURSE]  The Civil War (1861-65) was one of the most decis......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "71",
+        "rating": 0,
+        "ratings": []
     },
     "72": {
         "Year": 2024,
@@ -873,7 +1161,11 @@
         "Day, Period": "Tues.5",
         "Classroom": "undecided",
         "Course Description": "Technology has had an enormous influence on our lives in the ways in which......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "72",
+        "rating": 0,
+        "ratings": []
     },
     "73": {
         "Year": 2024,
@@ -885,7 +1177,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "11-807",
         "Course Description": "\u203bFace-to-Face delivery Did you ever wonder why urban Japanese looks so dif......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "73",
+        "rating": 0,
+        "ratings": []
     },
     "74": {
         "Year": 2024,
@@ -897,7 +1193,11 @@
         "Day, Period": "Tues.3",
         "Classroom": "11-609",
         "Course Description": "This class will help students read and understand written material in orde......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "74",
+        "rating": 0,
+        "ratings": []
     },
     "75": {
         "Year": 2024,
@@ -909,7 +1209,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "11-816",
         "Course Description": "This course aims at introducing first-year students to the basic questions......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "75",
+        "rating": 0,
+        "ratings": []
     },
     "76": {
         "Year": 2024,
@@ -921,7 +1225,11 @@
         "Day, Period": "Thur.4",
         "Classroom": "7-305",
         "Course Description": "This seminar course explores the complex relationships between language an......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "76",
+        "rating": 0,
+        "ratings": []
     },
     "77": {
         "Year": 2024,
@@ -933,7 +1241,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "11-803",
         "Course Description": "This seminar will examine rights, politics, and society in a comparative p......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "77",
+        "rating": 0,
+        "ratings": []
     },
     "78": {
         "Year": 2024,
@@ -945,7 +1257,11 @@
         "Day, Period": "Tues.5",
         "Classroom": "11-504",
         "Course Description": "\u203b This lecture course will be provided through regular face-to face in-cla......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "78",
+        "rating": 0,
+        "ratings": []
     },
     "79": {
         "Year": 2024,
@@ -957,7 +1273,11 @@
         "Day, Period": "Wed.5",
         "Classroom": "11-905",
         "Course Description": "Course delivery method: Face to face This seminar is designed to provide ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "79",
+        "rating": 0,
+        "ratings": []
     },
     "80": {
         "Year": 2024,
@@ -969,7 +1289,11 @@
         "Day, Period": "Fri.4",
         "Classroom": "7-204",
         "Course Description": "Face-to-Face (F2F) This seminar deals with governance issues related to pe......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "80",
+        "rating": 0,
+        "ratings": []
     },
     "81": {
         "Year": 2024,
@@ -981,7 +1305,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "11-813",
         "Course Description": "This seminar is designed to encourage students of international relations ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "81",
+        "rating": 0,
+        "ratings": []
     },
     "82": {
         "Year": 2024,
@@ -993,7 +1321,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "11-808",
         "Course Description": "This advanced seminar is for students who have a keen interest in history,......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "82",
+        "rating": 0,
+        "ratings": []
     },
     "83": {
         "Year": 2024,
@@ -1005,7 +1337,11 @@
         "Day, Period": "Wed.6",
         "Classroom": "11-710",
         "Course Description": "The method of course delivery will be Face-to-Face (F2F) (*Please note tha......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "83",
+        "rating": 0,
+        "ratings": []
     },
     "84": {
         "Year": 2024,
@@ -1017,7 +1353,11 @@
         "Day, Period": "Tues.2",
         "Classroom": "11-906",
         "Course Description": "This seminar will provide students with necessary knowledge and view-point......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "84",
+        "rating": 0,
+        "ratings": []
     },
     "85": {
         "Year": 2024,
@@ -1029,7 +1369,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "11-818",
         "Course Description": "The first part of the seminar focuses on major academic works related to t......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "85",
+        "rating": 0,
+        "ratings": []
     },
     "86": {
         "Year": 2024,
@@ -1041,7 +1385,11 @@
         "Day, Period": "Tues.4",
         "Classroom": "11-701",
         "Course Description": "Philosophers, scientists and scholars from other fields have always been ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "86",
+        "rating": 0,
+        "ratings": []
     },
     "87": {
         "Year": 2024,
@@ -1053,7 +1401,11 @@
         "Day, Period": "Wed.5",
         "Classroom": "11-707",
         "Course Description": "The purpose of this seminar is to gain the basic knowledge of physics, ast......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "87",
+        "rating": 0,
+        "ratings": []
     },
     "88": {
         "Year": 2024,
@@ -1065,7 +1417,11 @@
         "Day, Period": "Wed.5",
         "Classroom": "11-914",
         "Course Description": "In this class, we will study various aspects of the way science and techno......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "88",
+        "rating": 0,
+        "ratings": []
     },
     "89": {
         "Year": 2024,
@@ -1077,7 +1433,11 @@
         "Day, Period": "Thur.2",
         "Classroom": "11-814",
         "Course Description": "IMPORTANT: This course will be taught Face-To-Face. This seminar is desig......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "89",
+        "rating": 0,
+        "ratings": []
     },
     "90": {
         "Year": 2024,
@@ -1089,7 +1449,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "11-812",
         "Course Description": "{Course Delivery Method] Face to Face In this seminar, students are invite......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "90",
+        "rating": 0,
+        "ratings": []
     },
     "91": {
         "Year": 2024,
@@ -1101,7 +1465,11 @@
         "Day, Period": "Fri.4",
         "Classroom": "11-816",
         "Course Description": "This seminar is specifically designed for students with a keen interest in......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "91",
+        "rating": 0,
+        "ratings": []
     },
     "92": {
         "Year": 2024,
@@ -1113,7 +1481,11 @@
         "Day, Period": "Fri.5",
         "Classroom": "11-910",
         "Course Description": "\u203bFace-to-Face delivery This advanced seminar is intended for students who ......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "92",
+        "rating": 0,
+        "ratings": []
     },
     "93": {
         "Year": 2024,
@@ -1125,7 +1497,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "11-809",
         "Course Description": "The objective of this course is to help students understand Korea and Asia......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "93",
+        "rating": 0,
+        "ratings": []
     },
     "94": {
         "Year": 2024,
@@ -1137,7 +1513,11 @@
         "Day, Period": "Wed.5",
         "Classroom": "11-915",
         "Course Description": "[\u6388\u696d\u5b9f\u65bd\u65b9\u6cd5:Face-to-Face] The focus of the seminar is media and visual c......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "94",
+        "rating": 0,
+        "ratings": []
     },
     "95": {
         "Year": 2024,
@@ -1149,7 +1529,11 @@
         "Day, Period": "Wed.5",
         "Classroom": "11-814",
         "Course Description": "This semester's classes will be conducted in the \"face-to-face\" format. Th......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "95",
+        "rating": 0,
+        "ratings": []
     },
     "96": {
         "Year": 2024,
@@ -1161,7 +1545,11 @@
         "Day, Period": "Tues.2",
         "Classroom": "11-911",
         "Course Description": "In this class we meet in the classroom regularly. In this seminar, we wil......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "96",
+        "rating": 0,
+        "ratings": []
     },
     "97": {
         "Year": 2024,
@@ -1173,7 +1561,11 @@
         "Day, Period": "Thur.4",
         "Classroom": "7-205",
         "Course Description": "This curriculum is an advanced course for \u201cSELF LITERACY\u201d (First Year Semi......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "97",
+        "rating": 0,
+        "ratings": []
     },
     "98": {
         "Year": 2024,
@@ -1185,7 +1577,11 @@
         "Day, Period": "Thur.6",
         "Classroom": "3-706",
         "Course Description": "**[face-to-face] Classes will be held in person during the first and last ......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "98",
+        "rating": 0,
+        "ratings": []
     },
     "99": {
         "Year": 2024,
@@ -1197,7 +1593,11 @@
         "Day, Period": "Tues.3",
         "Classroom": "11-906",
         "Course Description": "We will meet in the classroom regularly. In this seminar, we will work on......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "99",
+        "rating": 0,
+        "ratings": []
     },
     "100": {
         "Year": 2024,
@@ -1209,7 +1609,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "11-912",
         "Course Description": "* F2F + remote [some sessions are likely to be conducted on Moodle because......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "100",
+        "rating": 0,
+        "ratings": []
     },
     "101": {
         "Year": 2024,
@@ -1221,7 +1625,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "11-606",
         "Course Description": "This seminar is primarily designed for students who are willing to study h......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "101",
+        "rating": 0,
+        "ratings": []
     },
     "102": {
         "Year": 2024,
@@ -1233,7 +1641,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "11-809",
         "Course Description": "**[face-to-face] Classes will be held in person during the first and last ......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "102",
+        "rating": 0,
+        "ratings": []
     },
     "103": {
         "Year": 2024,
@@ -1245,7 +1657,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "7-304",
         "Course Description": "This seminar builds upon foundational knowledge in psycholinguistics, delv......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "103",
+        "rating": 0,
+        "ratings": []
     },
     "104": {
         "Year": 2024,
@@ -1257,7 +1673,11 @@
         "Day, Period": "Fri.4",
         "Classroom": "11-813",
         "Course Description": "This seminar is for those planning to concentrate their senior year in the......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "104",
+        "rating": 0,
+        "ratings": []
     },
     "105": {
         "Year": 2024,
@@ -1269,7 +1689,11 @@
         "Day, Period": "Mon.2",
         "Classroom": "11-801",
         "Course Description": "This seminar is designed for those students who have an interest in Italy ......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "105",
+        "rating": 0,
+        "ratings": []
     },
     "106": {
         "Year": 2024,
@@ -1281,7 +1705,11 @@
         "Day, Period": "Tues.5",
         "Classroom": "11-604",
         "Course Description": "The teaching methodology of this class is F2F style. The aim of this cours......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "106",
+        "rating": 0,
+        "ratings": []
     },
     "107": {
         "Year": 2024,
@@ -1293,7 +1721,11 @@
         "Day, Period": "Thur.2",
         "Classroom": "11-910",
         "Course Description": "Course mode: Face-to-Face (+ Remote) The purpose of this seminar is to pro......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "107",
+        "rating": 0,
+        "ratings": []
     },
     "108": {
         "Year": 2024,
@@ -1305,7 +1737,11 @@
         "Day, Period": "Tues.2",
         "Classroom": "11-804",
         "Course Description": "\u3010Course Delivery Method\u3011 Face-to-FaceThis is a seminar in which we discu......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "108",
+        "rating": 0,
+        "ratings": []
     },
     "109": {
         "Year": 2024,
@@ -1317,6 +1753,10 @@
         "Day, Period": "Fri.4",
         "Classroom": "3-809",
         "Course Description": "**[face-to-face] Classes will be held in person during the first and last ......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "109",
+        "rating": 0,
+        "ratings": []
     }
 }

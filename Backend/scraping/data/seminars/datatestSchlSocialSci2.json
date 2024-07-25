@@ -9,7 +9,11 @@
         "Day, Period": "Fri.2",
         "Classroom": "14-516",
         "Course Description": "\u7570\u6587\u5316\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u306b\u3064\u3044\u3066\u3001\u6620\u753b\u3092\u901a\u3057\u3066\u82f1\u8a9e\u3067\u5b66\u3076\u6388\u696d\u3067\u3042\u308b\u3002\u79c1\u305f\u3061......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "0",
+        "rating": 0,
+        "ratings": []
     },
     "1": {
         "Year": 2024,
@@ -21,7 +25,11 @@
         "Day, Period": "Tues.3",
         "Classroom": "14-510\u5171\u540c\u5229\u7528\u7814\u7a76\u5ba45",
         "Course Description": "Given basic skills in macro-, micro-economics, and regression analysis, pa......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "1",
+        "rating": 0,
+        "ratings": []
     },
     "2": {
         "Year": 2024,
@@ -33,7 +41,11 @@
         "Day, Period": "Tues.3",
         "Classroom": "14-510\u5171\u540c\u5229\u7528\u7814\u7a76\u5ba45",
         "Course Description": "Given basic skills in macro-, micro-economics, and regression analysis, pa......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "2",
+        "rating": 0,
+        "ratings": []
     },
     "3": {
         "Year": 2024,
@@ -45,7 +57,11 @@
         "Day, Period": "Fri.3",
         "Classroom": "14-806\u5171\u540c\u5229\u7528\u7814\u7a76\u5ba47",
         "Course Description": "This seminar will be for 3rd and 4th year students and will take up variou......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "3",
+        "rating": 0,
+        "ratings": []
     },
     "4": {
         "Year": 2024,
@@ -57,7 +73,11 @@
         "Day, Period": "Fri.3",
         "Classroom": "14-806\u5171\u540c\u5229\u7528\u7814\u7a76\u5ba47",
         "Course Description": "This seminar will be for 3rd and 4th year students and will take up variou......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "4",
+        "rating": 0,
+        "ratings": []
     },
     "5": {
         "Year": 2024,
@@ -69,7 +89,11 @@
         "Day, Period": "Wed.5",
         "Classroom": "14-402",
         "Course Description": "Seminars II and III in the spring semester will discuss issues related to ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "5",
+        "rating": 0,
+        "ratings": []
     },
     "6": {
         "Year": 2024,
@@ -81,7 +105,11 @@
         "Day, Period": "Wed.5",
         "Classroom": "14-402",
         "Course Description": "Seminars II and III in the spring semester will discuss issues related to ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "6",
+        "rating": 0,
+        "ratings": []
     },
     "7": {
         "Year": 2024,
@@ -93,7 +121,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "14-409",
         "Course Description": "How can we build a world thatis secure and peaceful? What role can develop......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "7",
+        "rating": 0,
+        "ratings": []
     },
     "8": {
         "Year": 2024,
@@ -105,7 +137,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "14-409",
         "Course Description": "How can we build a world thatis secure and peaceful? What role can develop......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "8",
+        "rating": 0,
+        "ratings": []
     },
     "9": {
         "Year": 2024,
@@ -117,7 +153,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "7-304",
         "Course Description": "The academic field of gender and sexuality encompasses not only topics or ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "9",
+        "rating": 0,
+        "ratings": []
     },
     "10": {
         "Year": 2024,
@@ -129,7 +169,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "7-304",
         "Course Description": "The academic field of gender and sexuality encompasses not only topics or ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "10",
+        "rating": 0,
+        "ratings": []
     },
     "11": {
         "Year": 2024,
@@ -141,7 +185,11 @@
         "Day, Period": "Tues.3",
         "Classroom": "14-604",
         "Course Description": "\u3010TAISI Course\u3011 This course will include lectures from different professo......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "11",
+        "rating": 0,
+        "ratings": []
     },
     "12": {
         "Year": 2024,
@@ -153,7 +201,11 @@
         "Day, Period": "Tues.3",
         "Classroom": "14-604",
         "Course Description": "\u3010TAISI Course\u3011 This course will include lectures from different professo......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "12",
+        "rating": 0,
+        "ratings": []
     },
     "13": {
         "Year": 2024,
@@ -165,7 +217,11 @@
         "Day, Period": "Tues.2",
         "Classroom": "14-807\u5171\u540c\u5229\u7528\u7814\u7a76\u5ba48",
         "Course Description": "This course aims to prepare students to undertake research projects by int......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "13",
+        "rating": 0,
+        "ratings": []
     },
     "14": {
         "Year": 2024,
@@ -177,7 +233,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "14-516",
         "Course Description": "The learning objectives of this seminar are: 1) 1) to understand soci......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "14",
+        "rating": 0,
+        "ratings": []
     },
     "15": {
         "Year": 2024,
@@ -189,7 +249,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "14-505",
         "Course Description": "This course is conducted inJapanese as well asEnglish.\u3000\u6559\u54e1\u306f\u65e5\u672c\u8a9e80%\u82f1......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "15",
+        "rating": 0,
+        "ratings": []
     },
     "16": {
         "Year": 2024,
@@ -201,7 +265,11 @@
         "Day, Period": "Mon.4",
         "Classroom": "14-510\u5171\u540c\u5229\u7528\u7814\u7a76\u5ba45",
         "Course Description": "Dependent on the COVID-19 situation and works we do, we will occasionally ......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "16",
+        "rating": 0,
+        "ratings": []
     },
     "17": {
         "Year": 2024,
@@ -213,7 +281,11 @@
         "Day, Period": "Wed.4",
         "Classroom": "14-505",
         "Course Description": "This course is conducted inJapanese as well asEnglish.\u3000\u6559\u54e1\u306f\u65e5\u672c\u8a9e80%\u82f1......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "17",
+        "rating": 0,
+        "ratings": []
     },
     "18": {
         "Year": 2024,
@@ -225,7 +297,11 @@
         "Day, Period": "Mon.4",
         "Classroom": "14-510\u5171\u540c\u5229\u7528\u7814\u7a76\u5ba45",
         "Course Description": "Dependent on the COVID-19 situation and works we do, we will occasionally ......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "18",
+        "rating": 0,
+        "ratings": []
     },
     "19": {
         "Year": 2024,
@@ -237,7 +313,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "3-202(Center for Teaching,Learning, and Technology Active Learning)",
         "Course Description": "\u5e73\u548c\u69cb\u7bc9\u306f\u7d1b\u4e89\u5f8c\u56fd\u5bb6\u306e\u518d\u5efa\u3068\u3001\u518d\u3073\u7d1b\u4e89\u306b\u9665\u3089\u306a\u3044\u3088\u3046\u306b\u7d1b\u4e89\u306e\u82bd\u3092\u6458\u3080\u3053\u3068......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "19",
+        "rating": 0,
+        "ratings": []
     },
     "20": {
         "Year": 2024,
@@ -249,7 +329,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "3-202(Center for Teaching,Learning, and Technology Active Learning)",
         "Course Description": "\u5e73\u548c\u69cb\u7bc9\u306f\u7d1b\u4e89\u5f8c\u56fd\u5bb6\u306e\u518d\u5efa\u3068\u3001\u518d\u3073\u7d1b\u4e89\u306b\u9665\u3089\u306a\u3044\u3088\u3046\u306b\u7d1b\u4e89\u306e\u82bd\u3092\u6458\u3080\u3053\u3068......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "20",
+        "rating": 0,
+        "ratings": []
     },
     "21": {
         "Year": 2024,
@@ -261,7 +345,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "14-507\u5171\u540c\u5229\u7528\u7814\u7a76\u5ba42",
         "Course Description": "\u300c\u591a\u8a00\u8a9e\u793e\u4f1a\u306e\u4f1a\u8a71\u7814\u7a76\u300d\u3068\u984c\u3057\u305f\u672c\u30bc\u30df\u30ca\u30fc\u30eb\u306f\uff0c\u65e5\u672c\u3092\u30d9\u30fc\u30b9\u306b\uff0c\u305d\u306e\u4ed6\u306e\u56fd......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "21",
+        "rating": 0,
+        "ratings": []
     },
     "22": {
         "Year": 2024,
@@ -273,7 +361,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "14-507\u5171\u540c\u5229\u7528\u7814\u7a76\u5ba42",
         "Course Description": "\u300c\u591a\u8a00\u8a9e\u793e\u4f1a\u306e\u4f1a\u8a71\u7814\u7a76\u300d\u3068\u984c\u3057\u305f\u672c\u30bc\u30df\u30ca\u30fc\u30eb\u306f\uff0c\u65e5\u672c\u3092\u30d9\u30fc\u30b9\u306b\uff0c\u305d\u306e\u4ed6\u306e\u56fd......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "22",
+        "rating": 0,
+        "ratings": []
     },
     "23": {
         "Year": 2024,
@@ -285,7 +377,11 @@
         "Day, Period": "Tues.2",
         "Classroom": "14-507\u5171\u540c\u5229\u7528\u7814\u7a76\u5ba42",
         "Course Description": "\u672c\u6388\u696d\u3067\u306f\u3001\u30b8\u30a7\u30f3\u30c0\u30fc\u3068\u958b\u767a\u3068\u306f\u3069\u306e\u3088\u3046\u306a\u3082\u306e\u306a\u306e\u304b\u82f1\u6587\u8cc7\u6599\u3092\u7528\u3044\u3066\u7406\u89e3\u3092......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "23",
+        "rating": 0,
+        "ratings": []
     },
     "24": {
         "Year": 2024,
@@ -297,7 +393,11 @@
         "Day, Period": "Tues.2",
         "Classroom": "14-406\uff08\u6f14\u7fd2\u5ba4\uff09",
         "Course Description": "\u672c\u8b1b\u7fa9\u306f\u3001\u65e9\u7a32\u7530\u5927\u5b66\u793e\u4f1a\u79d1\u5b66\u90e8\u306e\u30c7\u30a3\u30d7\u30ed\u30de\u30dd\u30ea\u30b7\u30fc\u300c\u793e\u4f1a\u79d1\u5b66\u306e\u57fa\u790e\u7684\u7406\u89e3\u300d......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "24",
+        "rating": 0,
+        "ratings": []
     },
     "25": {
         "Year": 2024,
@@ -309,7 +409,11 @@
         "Day, Period": "Tues.4",
         "Classroom": "14-407",
         "Course Description": "Students will conduct their research either as a group member or individua......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "25",
+        "rating": 0,
+        "ratings": []
     },
     "26": {
         "Year": 2024,
@@ -321,7 +425,11 @@
         "Day, Period": "Tues.4",
         "Classroom": "14-407",
         "Course Description": "Students will conduct their research either as a group member or individua......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "26",
+        "rating": 0,
+        "ratings": []
     },
     "27": {
         "Year": 2024,
@@ -333,7 +441,11 @@
         "Day, Period": "Thur.4",
         "Classroom": "14-604",
         "Course Description": "\u6771\u4eac\u3092\u30d5\u30a3\u30fc\u30eb\u30c9\u306b\u3001\u30ed\u30fc\u30ab\u30eb\u306a\u5730\u57df\u3092\u8abf\u67fb\u3057\u307e\u3068\u3081\u308b\u65b9\u6cd5\u3092\u3001\u82f1\u8a9e\u3092\u7528\u3044\u3066\u5b66\u3073......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "27",
+        "rating": 0,
+        "ratings": []
     },
     "28": {
         "Year": 2024,
@@ -345,7 +457,11 @@
         "Day, Period": "Mon.4",
         "Classroom": "7-202",
         "Course Description": "\u30c9\u30a4\u30c4\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3001\u30d9\u30eb\u30f3\u30c8&\u30d2\u30e9\u30fb\u30d9\u30c3\u30d2\u30e3\u30fc\u306e\u4f5c\u54c1\u306a\u3089\u3073\u306b\u95a2\u9023\u3059\u308b......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "28",
+        "rating": 0,
+        "ratings": []
     },
     "29": {
         "Year": 2024,
@@ -357,7 +473,11 @@
         "Day, Period": "Fri.2",
         "Classroom": "12-203",
         "Course Description": "\u6301\u7d9a\u53ef\u80fd\u306a\u74b0\u5883\u7ba1\u7406\u306e\u305f\u3081\u306b\u306f\u3001\u653f\u5e9c\u3084\u5e02\u5834\u3060\u3051\u3067\u306f\u306a\u304f\u3001\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u304c\u6301\u3064......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "29",
+        "rating": 0,
+        "ratings": []
     },
     "30": {
         "Year": 2024,
@@ -369,6 +489,10 @@
         "Day, Period": "Fri.3",
         "Classroom": "12-203",
         "Course Description": "\u672c\u30b3\u30fc\u30b9\u306e\u76ee\u7684\u306f\u3001\u6301\u7d9a\u53ef\u80fd\u306a\u958b\u767a\u306e\u305f\u3081\u306e\u56fd\u969b\u7684\u306a\u653f\u7b56\u3068\u3001\u6301\u7d9a\u53ef\u80fd\u306a\u958b\u767a\u3078......",
-        "Language": "Japanese/English"
+        "Language": "Japanese/English",
+        "comments": [],
+        "index": "30",
+        "rating": 0,
+        "ratings": []
     }
 }

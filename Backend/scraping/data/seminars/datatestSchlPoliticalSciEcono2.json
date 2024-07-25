@@ -9,7 +9,11 @@
         "Day, Period": "Mon.2",
         "Classroom": "3-713",
         "Course Description": "This course is intended primarily for students who may be familiar wi......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "0",
+        "rating": 0,
+        "ratings": []
     },
     "1": {
         "Year": 2024,
@@ -21,7 +25,11 @@
         "Day, Period": "Mon.4",
         "Classroom": "3-606",
         "Course Description": "This course provides an introduction to Labour Economics. Topics include, ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "1",
+        "rating": 0,
+        "ratings": []
     },
     "2": {
         "Year": 2024,
@@ -33,7 +41,11 @@
         "Day, Period": "Mon.5",
         "Classroom": "3-606",
         "Course Description": "This course provides intermediate/advanced training in the dynamics of lab......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "2",
+        "rating": 0,
+        "ratings": []
     },
     "3": {
         "Year": 2024,
@@ -45,7 +57,11 @@
         "Day, Period": "Wed.3",
         "Classroom": "3-704",
         "Course Description": "This course explores the history of postwar Japan\u2019s international relation......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "3",
+        "rating": 0,
+        "ratings": []
     },
     "4": {
         "Year": 2024,
@@ -57,7 +73,11 @@
         "Day, Period": "01:Tues.3 02:Fri.3",
         "Classroom": "01:3-915\u5b9f\u7fd2\u5ba4 02:3-915\u5b9f\u7fd2\u5ba4",
         "Course Description": "This seminar is a boot camp for students who are interested in political m......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "4",
+        "rating": 0,
+        "ratings": []
     },
     "5": {
         "Year": 2024,
@@ -69,7 +89,11 @@
         "Day, Period": "Thur.4",
         "Classroom": "3-708",
         "Course Description": "The seminar is designed for students interested in learning about the hist......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "5",
+        "rating": 0,
+        "ratings": []
     },
     "6": {
         "Year": 2024,
@@ -81,7 +105,11 @@
         "Day, Period": "Mon.3",
         "Classroom": "3-712",
         "Course Description": "History books are a prime source to understanding current events as a resu......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "6",
+        "rating": 0,
+        "ratings": []
     },
     "7": {
         "Year": 2024,
@@ -93,7 +121,11 @@
         "Day, Period": "Tues.3",
         "Classroom": "3-812",
         "Course Description": "This course discusses theories of democratic backsliding and confronts the......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "7",
+        "rating": 0,
+        "ratings": []
     },
     "8": {
         "Year": 2024,
@@ -105,7 +137,11 @@
         "Day, Period": "Fri.5",
         "Classroom": "3-604",
         "Course Description": "Politics, one might think, is purely about bringing about good or just out......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "8",
+        "rating": 0,
+        "ratings": []
     },
     "9": {
         "Year": 2024,
@@ -117,7 +153,11 @@
         "Day, Period": "Mon.3",
         "Classroom": "3-708",
         "Course Description": "This course is designed to understand Development Economics Issues empiric......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "9",
+        "rating": 0,
+        "ratings": []
     },
     "10": {
         "Year": 2024,
@@ -129,7 +169,11 @@
         "Day, Period": "Tues.2",
         "Classroom": "3-703",
         "Course Description": "This course is designed to understand the nexus between households and gov......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "10",
+        "rating": 0,
+        "ratings": []
     },
     "11": {
         "Year": 2024,
@@ -141,7 +185,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "3-708",
         "Course Description": "Comparative politics is the subfield of political science that explains re......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "11",
+        "rating": 0,
+        "ratings": []
     },
     "12": {
         "Year": 2024,
@@ -153,7 +201,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "3-706",
         "Course Description": "In this seminar we are going to discuss theoretical and empirical (includ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "12",
+        "rating": 0,
+        "ratings": []
     },
     "13": {
         "Year": 2024,
@@ -165,7 +217,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "3-711",
         "Course Description": "This seminar introduces intermediate econometric methods commonly used in ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "13",
+        "rating": 0,
+        "ratings": []
     },
     "14": {
         "Year": 2024,
@@ -177,7 +233,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "3-808",
         "Course Description": "Few topics are as important to the lives and well-being of individuals, fi......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "14",
+        "rating": 0,
+        "ratings": []
     },
     "15": {
         "Year": 2024,
@@ -189,7 +249,11 @@
         "Day, Period": "Thur.3",
         "Classroom": "3-608",
         "Course Description": "What will society look like in 5, 10, 20, or 50 years? What world will be......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "15",
+        "rating": 0,
+        "ratings": []
     },
     "16": {
         "Year": 2024,
@@ -201,7 +265,11 @@
         "Day, Period": "Thur.4",
         "Classroom": "3-706",
         "Course Description": "In this seminar, we are going to read and think critically about the \"stan......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "16",
+        "rating": 0,
+        "ratings": []
     },
     "17": {
         "Year": 2024,
@@ -213,7 +281,11 @@
         "Day, Period": "Thur.4",
         "Classroom": "3-914\u5b9f\u7fd2\u5ba4",
         "Course Description": "This seminar examines various empirical facts and analyses used in recent ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "17",
+        "rating": 0,
+        "ratings": []
     },
     "18": {
         "Year": 2024,
@@ -225,7 +297,11 @@
         "Day, Period": "Thur.4",
         "Classroom": "3-711",
         "Course Description": "This seminar introduces intermediate economic theory and econometric metho......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "18",
+        "rating": 0,
+        "ratings": []
     },
     "19": {
         "Year": 2024,
@@ -237,7 +313,11 @@
         "Day, Period": "Thur.4",
         "Classroom": "3-808",
         "Course Description": "Why do governments select the currency policies they do? How has the inter......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "19",
+        "rating": 0,
+        "ratings": []
     },
     "20": {
         "Year": 2024,
@@ -249,7 +329,11 @@
         "Day, Period": "Thur.4",
         "Classroom": "3-608",
         "Course Description": "This semester, individuals begin to explore a potential research question ......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "20",
+        "rating": 0,
+        "ratings": []
     },
     "21": {
         "Year": 2024,
@@ -261,7 +345,11 @@
         "Day, Period": "othersothers",
         "Classroom": "undecided",
         "Course Description": "This is a thesis advisement course. As a result, it varies greatly from s......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "21",
+        "rating": 0,
+        "ratings": []
     },
     "22": {
         "Year": 2024,
@@ -273,7 +361,11 @@
         "Day, Period": "othersothers",
         "Classroom": "undecided",
         "Course Description": "The undergraduate thesis is an academic paper in which you demonstrate you......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "22",
+        "rating": 0,
+        "ratings": []
     },
     "23": {
         "Year": 2024,
@@ -285,7 +377,11 @@
         "Day, Period": "othersothers",
         "Classroom": "undecided",
         "Course Description": "This course helps students to write a thesis. There are common rules in wr......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "23",
+        "rating": 0,
+        "ratings": []
     },
     "24": {
         "Year": 2024,
@@ -297,7 +393,11 @@
         "Day, Period": "othersothers",
         "Classroom": "undecided",
         "Course Description": "This course provides guidance on students' thesis preparation.",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "24",
+        "rating": 0,
+        "ratings": []
     },
     "25": {
         "Year": 2024,
@@ -309,7 +409,11 @@
         "Day, Period": "othersothers",
         "Classroom": "undecided",
         "Course Description": "This course will help students to write a thesis using data.",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "25",
+        "rating": 0,
+        "ratings": []
     },
     "26": {
         "Year": 2024,
@@ -321,6 +425,10 @@
         "Day, Period": "othersothers",
         "Classroom": "undecided",
         "Course Description": "This seminar is open only to students who are working on a thesis that has......",
-        "Language": "English"
+        "Language": "English",
+        "comments": [],
+        "index": "26",
+        "rating": 0,
+        "ratings": []
     }
 }
